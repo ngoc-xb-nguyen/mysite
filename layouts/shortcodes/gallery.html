@@ -1,0 +1,93 @@
+{{ $images := readDir "static/images" }}
+
+
+<div class="gallery-container">
+    <button class="prev-btn">&#10094;</button>
+    <div class="gallery" id="gallery">
+        {{ range $images }}
+            {{ if (findRE "(?i)\\.(jpg|jpeg|png|gif)$" .Name) }}
+                <div class="gallery-item">
+                    <img src="{{ printf "/images/%s" .Name | relURL }}" alt="Gallery Image">
+                </div>
+            {{ end }}
+        {{ end }}
+    </div>
+    <button class="next-btn">&#10095;</button>
+</div>
+
+<style>
+    .gallery-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        max-width: 100%;
+        margin: auto;
+        overflow: hidden;
+    }
+    .gallery {
+        display: flex;
+        overflow-x: auto;
+        scroll-behavior: smooth;
+        gap: 20px;
+        padding: 10px;
+        white-space: nowrap;
+    }
+    .gallery-item {
+        flex: 0 0 auto;
+        width: 500px;
+        cursor: grab;
+    }
+    .gallery img {
+        width: 700%;
+        border-radius: 2px;
+        box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    }
+    .prev-btn, .next-btn {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: rgba(0,0,0,0.5);
+        color: white;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+        font-size: 24px;
+        border-radius: 50%;
+    }
+    .prev-btn { left: 5px; }
+    .next-btn { right: 5px; }
+</style>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+    const gallery = document.getElementById("gallery");
+    let isDragging = false, startX, scrollLeft;
+
+    // Dragging functionality
+    gallery.addEventListener("mousedown", (e) => {
+        isDragging = true;
+        startX = e.pageX - gallery.offsetLeft;
+        scrollLeft = gallery.scrollLeft;
+    });
+
+    gallery.addEventListener("mouseleave", () => { isDragging = false; });
+    gallery.addEventListener("mouseup", () => { isDragging = false; });
+    gallery.addEventListener("mousemove", (e) => {
+        if (!isDragging) return;
+        e.preventDefault();
+        const x = e.pageX - gallery.offsetLeft;
+        const walk = (x - startX) * 2; // Move speed
+        gallery.scrollLeft = scrollLeft - walk;
+    });
+
+    // Arrow button scrolling
+    document.querySelector(".prev-btn").addEventListener("click", () => {
+        gallery.scrollLeft -= 200;
+    });
+
+    document.querySelector(".next-btn").addEventListener("click", () => {
+        gallery.scrollLeft += 200;
+    });
+});
+</script>
