@@ -4,12 +4,13 @@
 <div class="gallery-container">
     <button class="prev-btn">&#10094;</button>
     <div class="gallery" id="gallery">
-        <div class="gallery-item">
-            <img class="first-side img-responsive" src="{{ "images/photo1.jpg" | relURL }}" alt="Gallery Image 1">
-        </div>
-        <div class="gallery-item">
-            <img class="first-side img-responsive" src="{{ "images/photo2.jpg" | relURL }}" alt="Gallery Image 2">
-        </div>
+        {{ range $images }}
+            {{ if (findRE "(?i)\\.(jpg|jpeg|png|gif)$" .Name) }}
+                <div class="gallery-item">
+                    <img class="first-side img-responsive" src="{{ "images/" | relURL }}{{ .Name }}" alt="Gallery Image">
+                </div>
+            {{ end }}
+        {{ end }}
     </div>
     <button class="next-btn">&#10095;</button>
 </div>
