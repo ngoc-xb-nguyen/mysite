@@ -1,19 +1,17 @@
 {{ $images := readDir "static/images" }}
-    
 <div class="gallery-container">
     <button class="prev-btn">&#10094;</button>
     <div class="gallery" id="gallery">
         {{ range $images }}
             {{ if (findRE "(?i)\\.jpeg$" .Name) }}
                 <div class="gallery-item">
-                    <img class="first-side img-responsive" src="{{ "images/" | absURL }}{{ .Name }}" alt="Gallery Image">
+                    <img class="first-side img-responsive" src="{{ "images/" | relURL }}{{ .Name }}" alt="Gallery Image">
                 </div>
             {{ end }}
         {{ end }}
     </div>
     <button class="next-btn">&#10095;</button>
 </div>
-
 
 
 <style>
