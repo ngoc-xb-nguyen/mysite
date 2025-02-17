@@ -5,7 +5,7 @@
     <button class="prev-btn">&#10094;</button>
     <div class="gallery" id="gallery">
         {{ range $images }}
-            {{ if (findRE "(?i)\\.(jpg|jpeg|png|gif)$" .Name) }}
+            {{ if (findRE "(?i)\\.jpeg$" .Name) }}
                 <div class="gallery-item">
                     <img class="first-side img-responsive" src="{{ "images/" | absURL }}{{ .Name }}" alt="Gallery Image">
                 </div>
