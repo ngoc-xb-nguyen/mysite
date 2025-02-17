@@ -1,5 +1,5 @@
 languageCode: en-us
-baseURL: "http://localhost:1313"
+baseURL: "https://ngoc-xb-nguyen.github.io/mysite/"
 title: My website
 pagination:
   pagerSize: 10
@@ -133,7 +133,7 @@ menu:
   main:
     - identifier: "About me"
       name: "About Me"
-      url: "http://localhost:1313/post/about-me/"
+      url: "https://ngoc-xb-nguyen.github.io/mysite/post/about-me/"
       weight: 30
     - identifier: "CV"
       name: "CV"
