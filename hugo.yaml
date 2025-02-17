@@ -1,7 +1,7 @@
 baseURL: https://example.org/
 languageCode: en-us
 title: Ngoc X.B. Nguyen (Jean)
-baseURL: "http://localhost:1313"
+baseURL: "https://ngoc-xb-nguyen.github.io/mysite/"
 title: My website
 pagination:
   pagerSize: 10
