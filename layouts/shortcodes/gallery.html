@@ -12,8 +12,6 @@
     </div>
     <button class="next-btn">&#10095;</button>
 </div>
-
-
 <style>
     .gallery-container {
         display: flex;
@@ -57,19 +55,16 @@
     .prev-btn { left: 5px; }
     .next-btn { right: 5px; }
 </style>
-
 <script>
 document.addEventListener("DOMContentLoaded", function () {
     const gallery = document.getElementById("gallery");
     let isDragging = false, startX, scrollLeft;
-
     // Dragging functionality
     gallery.addEventListener("mousedown", (e) => {
         isDragging = true;
         startX = e.pageX - gallery.offsetLeft;
         scrollLeft = gallery.scrollLeft;
     });
-
     gallery.addEventListener("mouseleave", () => { isDragging = false; });
     gallery.addEventListener("mouseup", () => { isDragging = false; });
     gallery.addEventListener("mousemove", (e) => {
@@ -79,12 +74,10 @@ document.addEventListener("DOMContentLoaded", function () {
         const walk = (x - startX) * 2; // Move speed
         gallery.scrollLeft = scrollLeft - walk;
     });
-
     // Arrow button scrolling
     document.querySelector(".prev-btn").addEventListener("click", () => {
         gallery.scrollLeft -= 200;
     });
-
     document.querySelector(".next-btn").addEventListener("click", () => {
         gallery.scrollLeft += 200;
     });
