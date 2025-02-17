@@ -69,7 +69,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Welcome
     subtitle: "This is the website of **Ngoc X.B. Nguyen (Jean), Ph.D.** in AgriScience - Postharvest Technology"
-    imageUrl: "/image/jeann.jpg"
+    imageUrl: "image/jeann.jpg"
     imageWidth: 300
     imageHeight: 300
     imageTitle: my image
