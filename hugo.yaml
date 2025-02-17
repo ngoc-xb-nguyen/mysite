@@ -131,7 +131,7 @@ menu:
   main:
     - identifier: "About me"
       name: "About Me"
-      url: http://localhost:1313/post/about-me/
+      url: "https://ngoc-xb-nguyen.github.io/mysite/about-me/"
       weight: 30
     - identifier: "CV"
       name: "CV"
