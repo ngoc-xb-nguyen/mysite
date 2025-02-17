@@ -1,18 +1,20 @@
 {{ $images := readDir "static/images" }}
-{{ if eq (len $images) 0 }}
-  <p>No images found in static/images directory</p>
-{{ else }}
-  <p>Found {{ len $images }} images</p>
-  <ul>
-    {{ range $images }}
-      <li>{{ .Name }} (Path: {{ "images/" | relURL }}{{ .Name }})</li>
-    {{ end }}
-  </ul>
-{{ end }}
-
+    
 <div class="gallery-container">
-    <!-- ... rest of your gallery code ... -->
+    <button class="prev-btn">&#10094;</button>
+    <div class="gallery" id="gallery">
+        {{ range $images }}
+            {{ if (findRE "(?i)\\.jpeg$" .Name) }}
+                <div class="gallery-item">
+                    <img class="first-side img-responsive" src="{{ "images/" | absURL }}{{ .Name }}" alt="Gallery Image">
+                </div>
+            {{ end }}
+        {{ end }}
+    </div>
+    <button class="next-btn">&#10095;</button>
 </div>
+
+
 
 <style>
     .gallery-container {
