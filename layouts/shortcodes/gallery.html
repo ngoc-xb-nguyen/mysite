@@ -1,5 +1,4 @@
-{{ $images := readDir "static/images" }}
-
+{{ $images := readDir "images" }}
 
 <div class="gallery-container">
     <button class="prev-btn">&#10094;</button>
@@ -7,7 +6,7 @@
         {{ range $images }}
             {{ if (findRE "(?i)\\.(jpg|jpeg|png|gif)$" .Name) }}
                 <div class="gallery-item">
-                    <img src="{{ printf "/images/%s" .Name | relURL }}" alt="Gallery Image">
+                    <img src="{{ printf "images/%s" .Name | absURL }}" alt="Gallery Image">
                 </div>
             {{ end }}
         {{ end }}
@@ -39,7 +38,7 @@
         cursor: grab;
     }
     .gallery img {
-        width: 700%;
+        width: 100%;
         border-radius: 2px;
         box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
     }
