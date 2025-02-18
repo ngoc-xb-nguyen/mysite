@@ -1,11 +1,12 @@
 languageCode: en-us
 baseURL: "https://ngoc-xb-nguyen.github.io/mysite/"
+#baseURL: "https://example.org/"
 title: My website
 pagination:
   pagerSize: 10
 theme: "PaperMod"
 themesDir: "themes"
-publishDir: "docs"
+#publishDir: "docs"
 
 
 
@@ -134,11 +135,24 @@ menu:
     - identifier: "About me"
       name: "About Me"
       url: "https://ngoc-xb-nguyen.github.io/mysite/post/about-me/"
+      #url: "http://localhost:1313/post/about-me"
       weight: 30
     - identifier: "CV"
       name: "CV"
-      url: 
+      url: "https://ngoc-xb-nguyen.github.io/mysite/post/CV/"
       weight: 30  
+    - identifier: "Publications"
+      name: "Publications"
+      url: "http://localhost:1313/post/Publications"
+      weight: 30
+    - identifier: "Research"
+      name: "Research"
+      url: "http://localhost:1313/post/Research"
+      weight: 30
+    - identifier: "Contact"
+      name: "Contact"
+      url: "http://localhost:1313/post/Contact"
+      weight: 30        
 
 
 
