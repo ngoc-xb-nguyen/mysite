@@ -5,7 +5,7 @@
     <div class="gallery" id="gallery">
         {{ range $imageNames }}
             <div class="gallery-item">
-                <img src="{{ "images/" | abslURL }}{{ . }}" alt="Gallery Image">
+                <img src="{{ "images/" | absURL }}{{ . }}" alt="Gallery Image">
             </div>
         {{ end }}
     </div>

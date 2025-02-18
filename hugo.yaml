@@ -6,7 +6,7 @@ pagination:
   pagerSize: 10
 theme: "PaperMod"
 themesDir: "themes"
-#publishDir: "docs"
+publishDir: "docs"
 
 
 

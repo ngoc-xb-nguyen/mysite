@@ -1,6 +1,6 @@
 ---
 date: '2025-02-18T10:51:47+07:00'
-draft: true
+draft: false
 title: "Curriculum Vitae"
 
 ---
