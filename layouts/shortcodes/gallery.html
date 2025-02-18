@@ -1,12 +1,11 @@
-{{ $images := readDir "static/images" }}
+{{ $images := resources.Match "images/*.jpeg" }}
 <div class="gallery-container">
     <button class="prev-btn">&#10094;</button>
     <div class="gallery" id="gallery">
         {{ range $images }}
             {{ if (findRE "(?i)\\.jpeg$" .Name) }}
                 <div class="gallery-item">
-                    <img src="{{ .Page.RelPermalink }}images/{{ .Name }}" alt="Gallery Image">
-
+                    <img src="{{ "/images/" | relURL }}{{ .Name }}" alt="Gallery Image">
                 </div>
             {{ end }}
         {{ end }}
