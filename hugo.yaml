@@ -139,7 +139,7 @@ menu:
       weight: 30
     - identifier: "CV"
       name: "CV"
-      url: "https://ngoc-xb-nguyen.github.io/mysite/post/CV/"
+      url: "https://ngoc-xb-nguyen.github.io/mysite/post/cv/"
       weight: 30  
     - identifier: "Publications"
       name: "Publications"

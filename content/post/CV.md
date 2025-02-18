@@ -1,13 +1,13 @@
 ---
 date: '2025-02-18T10:51:47+07:00'
 draft: false
-title: "Curriculum Vitae"
+title: "CV"
 
 ---
 #    Ngoc X.B. Nguyen (Jean), Ph.D.
  **Bioinformatics Scientist**
 
-🔎 [Full Curriculum Vitae](/files/CV_2025.pdf)
+🔎 [Full Curriculum Vitae](https://ngoc-xb-nguyen.github.io/mysite/files/CV_2025.pdf)
 
 
 
