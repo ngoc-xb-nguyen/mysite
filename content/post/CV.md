@@ -22,7 +22,7 @@ xuanbaongoc.nguyen@adelaide.edu.au
 
 . Plant disease defense and immunity,
 
-. Plant genomics, trasncriptomics,
+. Plant genomics & transcriptomics,
 
 . Phytohormone regulations,
 
