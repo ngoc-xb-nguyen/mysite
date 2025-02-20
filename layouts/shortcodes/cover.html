@@ -3,7 +3,7 @@
 <div class="cover-container">
     <button class="prev-btn">&#10094;</button>
     <div class="cover" id="cover">
-        {{ $imageNames := slice "ijfs.jpeg" "plantphysio.jpg" "plantphysio.jpg" "p.jpg" "post17.jpg"}}
+        {{ $imageNames := slice "ijfs.jpeg" "plantphysio.jpg" "p.jpg" "post17.jpg"}}
         {{ range $imageNames }}
             <div class="cover-item">
                 <img src="{{ printf "cover/%s" . | absURL }}" alt="cover">
@@ -34,7 +34,7 @@
         white-space: nowrap;
         box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3); /* Bottom shadow effect */
         border-radius: 5px;
-        background: whitesmoke;
+        white-space: nowrap;
     }
 
     .cover-item {
@@ -45,8 +45,12 @@
 
     .cover img {
         width: 100%;
-        border-radius: 10px;
-        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+        border: none;
+        background: none; /*no box around*/
+        box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+        border-radius: 5px;
+        max-width: 80%;
+        height: auto;
     }
 
     .prev-btn, .next-btn {

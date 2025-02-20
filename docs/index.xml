@@ -44,10 +44,6 @@
             &lt;/div&gt;
         
             &lt;div class=&#34;cover-item&#34;&gt;
-                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/cover/plantphysio.jpg&#34; alt=&#34;cover&#34;&gt;
-            &lt;/div&gt;
-        
-            &lt;div class=&#34;cover-item&#34;&gt;
                 &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/cover/p.jpg&#34; alt=&#34;cover&#34;&gt;
             &lt;/div&gt;
         
@@ -80,7 +76,7 @@
         white-space: nowrap;
         box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.3);  
         border-radius: 5px;
-        background: whitesmoke;
+        white-space: nowrap;
     }
 
     .cover-item {
@@ -91,8 +87,12 @@
 
     .cover img {
         width: 100%;
-        border-radius: 10px;
-        box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+        border: none;
+        background: none;  
+        box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.2);
+        border-radius: 5px;
+        max-width: 80%;
+        height: auto;
     }
 
     .prev-btn, .next-btn {
@@ -133,8 +133,7 @@ document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
       <link>https://ngoc-xb-nguyen.github.io/mysite/post/cv/</link>
       <pubDate>Tue, 18 Feb 2025 10:51:47 +0700</pubDate>
       <guid>https://ngoc-xb-nguyen.github.io/mysite/post/cv/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-&lt;h1 id=&#34;ngoc-xb-nguyen-jean-phd&#34;&gt;Ngoc X.B. Nguyen (Jean), Ph.D.&lt;/h1&gt;
+      <description>&lt;h1 id=&#34;ngoc-xb-nguyen-jean-phd&#34;&gt;Ngoc X.B. Nguyen (Jean), Ph.D.&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Bioinformatics Scientist&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;🔎 &lt;a href=&#34;https://ngoc-xb-nguyen.github.io/mysite/files/CV_2025.pdf&#34;&gt;Full Curriculum Vitae&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;✉️ &lt;a href=&#34;mailto:jeannguyen1993@gmail.com&#34;&gt;jeannguyen1993@gmail.com&lt;/a&gt; - &lt;a href=&#34;mailto:ngoc.nguy@kmutt.ac.th&#34;&gt;ngoc.nguy@kmutt.ac.th&lt;/a&gt; -
@@ -151,7 +150,8 @@ document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
 &lt;p&gt;👩‍💼&lt;strong&gt;Professional Experiences:&lt;/strong&gt;&lt;/p&gt;
 &lt;h1 id=&#34;heading-2&#34;&gt;&lt;/h1&gt;
 &lt;p&gt;✔ 1/2025 - present: seasonal researcher&lt;/p&gt;
-&lt;p&gt;Postharvest Technology of Ornamental Plant, King Mongkut’s University of Technology Thonburi (KMUTT), Thailand&lt;/p&gt;</description>
+&lt;p&gt;Postharvest Technology of Ornamental Plant, King Mongkut’s University of Technology Thonburi (KMUTT), Thailand&lt;/p&gt;
+&lt;p&gt;✔ 3/2024 - 7/2024: research fellowship - casual staff&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
