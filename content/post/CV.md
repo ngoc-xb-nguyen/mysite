@@ -3,7 +3,7 @@ date: '2025-02-18T10:51:47+07:00'
 draft: false
 title: "CV"
 ---
-<img src="/image/jeann.jpg" alt="myimage" style="width: 100px; position: absolute; top: 10px; left: 10px;"/>
+<img src="docs/image/jeann.jpg" alt="myimage" style="width: 100px; position: absolute; top: 10px; left: 10px;"/>
 
 #    Ngoc X.B. Nguyen (Jean), Ph.D.
  **Bioinformatics Scientist**

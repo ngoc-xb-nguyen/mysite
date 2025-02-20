@@ -3,7 +3,7 @@
 <div class="cover-container">
     <button class="prev-btn">&#10094;</button>
     <div class="cover" id="cover">
-        {{ $imageNames := slice "ijfs.jpeg" "plantphysio.jpg" }}
+        {{ $imageNames := slice "ijfs.jpeg" "plantphysio.jpg" "plantphysio.jpg" "p.jpg" "post17.jpg"}}
         {{ range $imageNames }}
             <div class="cover-item">
                 <img src="{{ printf "cover/%s" . | absURL }}" alt="cover">

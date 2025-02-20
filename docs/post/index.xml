@@ -43,6 +43,18 @@
                 &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/cover/plantphysio.jpg&#34; alt=&#34;cover&#34;&gt;
             &lt;/div&gt;
         
+            &lt;div class=&#34;cover-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/cover/plantphysio.jpg&#34; alt=&#34;cover&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;cover-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/cover/p.jpg&#34; alt=&#34;cover&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;cover-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/cover/post17.jpg&#34; alt=&#34;cover&#34;&gt;
+            &lt;/div&gt;
+        
     &lt;/div&gt;
     &lt;button class=&#34;next-btn&#34;&gt;&amp;#10095;&lt;/button&gt;
 &lt;/div&gt;
