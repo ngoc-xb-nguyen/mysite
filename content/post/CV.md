@@ -2,8 +2,9 @@
 date: '2025-02-18T10:51:47+07:00'
 draft: false
 title: "CV"
-
 ---
+<img src="/image/jeann.jpg" alt="myimage" style="width: 100px; position: absolute; top: 10px; left: 10px;"/>
+
 #    Ngoc X.B. Nguyen (Jean), Ph.D.
  **Bioinformatics Scientist**
 
@@ -75,7 +76,7 @@ Find my list of publications in [Google Scholar](https://scholar.google.com/cita
 Petchra Pra Jom Klao Scholarship, Thailand) https://doi.org/10.1016/j.jplph.2024.154356 
 
 . Effectiveness of vinegar as a sanitizing agent to maintain the postharvest quality of fresh-cut pumpkin (Funded by the Petchra
-Pra Jom Klao Scholarship) https://www.researchgate.net/publication/350485755_Effectiveness_of_Vinegar_as_a_Sanitizing_Agent_to_Maintain_the_Postharvest_Quality_of_Fresh-cut_Pumpkin
+Pra Jom Klao Scholarship) https://www.phtnet.org/download/phtic-seminar/1952.pdf
 
 . Oil characterization and aflatoxin profile of peanut kernel subjected to gamma irradiation (Funded by the Petchra Pra Jom Klao
 Scholarship) http://www.ijfe.org/uploadfile/2020/0622/20200622045517520.pdf
