@@ -140,6 +140,7 @@ menu:
     - identifier: "CV"
       name: "CV"
       url: "https://ngoc-xb-nguyen.github.io/mysite/post/cv/"
+      #url: "http://localhost:1313/post/cv"
       weight: 30  
     - identifier: "Publications"
       name: "Publications"
@@ -152,6 +153,8 @@ menu:
     - identifier: "Contact"
       name: "Contact"
       url: "https://ngoc-xb-nguyen.github.io/mysite/post/Contact"
+      #url: "http://localhost:1313/post/Contact"
+
       weight: 30        
 
 

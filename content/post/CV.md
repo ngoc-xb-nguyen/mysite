@@ -62,7 +62,32 @@ Nong Lam University, Ho Chi Minh city, Vietnam
 #
 🔎 [Publications](https://scholar.google.com/citations?user=kUjOJhMAAAAJ&hl=vi)  
 Find my list of publications in [Google Scholar](https://scholar.google.com/citations?user=kUjOJhMAAAAJ&hl=vi).
+#
+🔬**Research projects:**
+#
+. Transcriptome of the Vanda ‘Sansai” Blue Orchid
 
+. Metagenome analysis of the orange-bellied parrot
+
+. Identified the protein profile of Canine Parvovirus using various purification methods
+
+. Postharvest Induction of anthracnose resistance in ‘Nam Dok Mai’ mango fruit by plant growth regulators(PhD project, funded by the
+Petchra Pra Jom Klao Scholarship, Thailand) https://doi.org/10.1016/j.jplph.2024.154356 
+
+. Effectiveness of vinegar as a sanitizing agent to maintain the postharvest quality of fresh-cut pumpkin (Funded by the Petchra
+Pra Jom Klao Scholarship) https://www.researchgate.net/publication/350485755_Effectiveness_of_Vinegar_as_a_Sanitizing_Agent_to_Maintain_the_Postharvest_Quality_of_Fresh-cut_Pumpkin
+
+. Oil characterization and aflatoxin profile of peanut kernel subjected to gamma irradiation (Funded by the Petchra Pra Jom Klao
+Scholarship) http://www.ijfe.org/uploadfile/2020/0622/20200622045517520.pdf
+
+. Effects of gamma irradiation dose and short‐term storage on phytochemicals, antioxidants, and textural properties of boiled
+‘Tainan 9’peanuts (Funded by the Petchra Pra Jom Klao Scholarship) https://doi.org/10.1111/ijfs.15705 
+
+. Use of redox agents and organic acids under active modified atmosphere to replace sulfur dioxide fumigation of logan in retail
+supply chain (Funded by Postharvest Technology Innovation Center, Thailand)
+
+. Preparation of lutein nano-dispersion via solvent displacement method: comparison between three different emulsifiers (Funded
+by Advanced Programme Scholarship, Nong Lam University, Vietnam)
 
 
 
