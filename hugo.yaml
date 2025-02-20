@@ -152,7 +152,7 @@ menu:
       weight: 30
     - identifier: "Contact"
       name: "Contact"
-      url: "https://ngoc-xb-nguyen.github.io/mysite/post/Contact"
+      url: "https://ngoc-xb-nguyen.github.io/mysite/post/contact"
       #url: "http://localhost:1313/post/Contact"
 
       weight: 30        
