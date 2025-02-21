@@ -149,7 +149,7 @@ menu:
       weight: 30
     - identifier: "Research"
       name: "Research"
-      url: "https://ngoc-xb-nguyen.github.io/mysite/post/Research"
+      url: "https://ngoc-xb-nguyen.github.io/mysite/post/research"
       #url: "http://localhost:1313/post/Research/"
       weight: 30
     - identifier: "Contact"
