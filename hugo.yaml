@@ -36,7 +36,7 @@ params:
 
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -162,7 +162,10 @@ menu:
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 #pygmentsUseClasses: true
-#markup:
+markup:
+  goldmark:
+    renderer:
+      unsafe: false
 #  highlight:
 #    noClasses: false
     # anchorLineNos: true
