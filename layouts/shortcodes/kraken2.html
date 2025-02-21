@@ -1,0 +1,11 @@
+
+<div class="kraken2-container">
+    <div class="kraken2 image-container">
+        {{ $imageNames := slice "IMG1.jpg" "IMG2.jpg"}}
+        {{ range $imageNames }}
+            <div class="kraken2-item">
+                <img src="{{ printf "research/%s" . | absURL }}" alt="kraken2">
+            </div>
+        {{ end }}
+    </div>
+</div>

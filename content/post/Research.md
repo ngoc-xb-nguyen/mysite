@@ -15,7 +15,9 @@ title: 'Research'
 # Past Projects
 #
 🔬 **Metagenome analysis of the orange-bellied parrot**
-![kraken2](https://ngoc-xb-nguyen.github.io/mysite/post/research/research/P1.jpg)
+
+{{< kraken2 >}}
+
 
 A zoologist came to us with infected birds that died from necrotizing non-suppurative hepatitis/splenitis of unknown cause. We conducted a metagenomic analysis, which *Chlamydia pstittaci* was found as causal pathogen.    
 
