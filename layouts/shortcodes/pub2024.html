@@ -1,0 +1,31 @@
+<div class="pub2024-container">
+    <div class="pub2024 image-container">
+        {{ $imageNames := slice "Picture1.jpg" "P3.jpg" "P2.jpg" }}
+        {{ range $imageNames }}
+            <div class="pub2024-item">
+                <img src="{{ printf "pub2024/%s" . | absURL }}" alt="pub2024">
+            </div>
+        {{ end }}
+    </div>
+</div>
+
+<style>
+    .image-container {
+        display: flex;
+        justify-content: center; /* Center images horizontally */
+        align-items: center; /* Align images vertically */
+        flex-wrap: nowrap; /* Prevent images from wrapping */
+        gap: 0px; /* Add minimal space between images */
+        text-align: center;
+    }
+    .pub2024-item {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+    }
+    .image-container img {
+        width: 97%; /* Adjust size to fit side by side */
+        height: auto; /* Maintain aspect ratio */
+        object-fit: scale-down; /* Ensures image fits without distortion */
+    }
+</style>

@@ -72,16 +72,16 @@ Find my list of publications in [Google Scholar](https://scholar.google.com/cita
 . Identified the protein profile of Canine Parvovirus using various purification methods
 
 . Postharvest Induction of anthracnose resistance in ‘Nam Dok Mai’ mango fruit by plant growth regulators(PhD project, funded by the
-Petchra Pra Jom Klao Scholarship, Thailand) https://doi.org/10.1016/j.jplph.2024.154356 
+Petchra Pra Jom Klao Scholarship, Thailand) *https://doi.org/10.1016/j.jplph.2024.154356* 
 
 . Effectiveness of vinegar as a sanitizing agent to maintain the postharvest quality of fresh-cut pumpkin (Funded by the Petchra
-Pra Jom Klao Scholarship) https://www.phtnet.org/download/phtic-seminar/1952.pdf
+Pra Jom Klao Scholarship) *https://www.phtnet.org/download/phtic-seminar/1952.pdf*
 
 . Oil characterization and aflatoxin profile of peanut kernel subjected to gamma irradiation (Funded by the Petchra Pra Jom Klao
-Scholarship) http://www.ijfe.org/uploadfile/2020/0622/20200622045517520.pdf
+Scholarship) *http://www.ijfe.org/uploadfile/2020/0622/20200622045517520.pdf*
 
 . Effects of gamma irradiation dose and short‐term storage on phytochemicals, antioxidants, and textural properties of boiled
-‘Tainan 9’peanuts (Funded by the Petchra Pra Jom Klao Scholarship) https://doi.org/10.1111/ijfs.15705 
+‘Tainan 9’peanuts (Funded by the Petchra Pra Jom Klao Scholarship) *https://doi.org/10.1111/ijfs.15705* 
 
 . Use of redox agents and organic acids under active modified atmosphere to replace sulfur dioxide fumigation of logan in retail
 supply chain (Funded by Postharvest Technology Innovation Center, Thailand)

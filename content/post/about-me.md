@@ -6,7 +6,7 @@ title: 'About Me'
 ---
 
 #
-**Ngoc X.B. Nguyen (Jean)** is a **junior scientist and researcher** at the Postharvest Technology of Ornamental Plant, School of Bioresources and Technology, King Mongkut’s University of Technology Thonburi (KMUTT), Bangkok, Thailand. Her current project, under the supervision of **Asst. Prof. Mantana Buanong**, focuses on the **transcriptomic analysis of Vanda orchid cv. Sansai Blue, aiming to discover ethylene regulators in Vanda's senescence**.
+**Ngoc X.B. Nguyen (Jean)** is a **junior scientist and researcher** at the Postharvest Technology of Ornamental Plant, School of Bioresources and Technology, King Mongkut’s University of Technology Thonburi (KMUTT), Bangkok, Thailand. Her current project, under the supervision of **Asst. Prof. Mantana Buanong**, focuses on the **transcriptomic analysis of cut Vanda orchid flowers, aiming to discover ethylene regulators in the flower senescence**.
 
 #
 Before joining the Vanda orchid project, she worked as a research staff member at the School of Animal and Veterinary Sciences, University of Adelaide (Roseworthy Campus), South Australia, under the guidance of Assoc. Prof. Dr. Farhid Hemmatzadeh.

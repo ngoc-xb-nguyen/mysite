@@ -1,6 +1,6 @@
 languageCode: en-us
 baseURL: "https://ngoc-xb-nguyen.github.io/mysite/"
-#baseURL: "https://example.org/"
+#baseURL: "http://localhost:1313/"
 title: My website
 pagination:
   pagerSize: 10
