@@ -156,7 +156,7 @@ document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
     &lt;div class=&#34;profile-info&#34;&gt;
         &lt;p&gt;&lt;strong&gt;Ngoc X.B. Nguyen (Jean), Ph.D.&lt;/strong&gt;&lt;/p&gt;
         &lt;p&gt;Bioinformatics Scientist&lt;/p&gt;
-        &lt;p&gt;🔎 &lt;a href=&#34;https://ngoc-xb-nguyen.github.io/mysite/files/CV_2025.pdf&#34;&gt;Full Curriculum Vitae&lt;/a&gt;&lt;/p&gt;
+        &lt;a href=&#34;https://ngoc-xb-nguyen.github.io/mysite/files/CV_2025.pdf&#34;&gt;Full Curriculum Vitae&lt;/a&gt;
         &lt;p&gt;✉️ jeannguyen1993@gmail.com - ngoc.nguy@kmutt.ac.th - xuanbaongoc.nguyen@adelaide.edu.au&lt;/p&gt;
         &lt;p&gt;📞 (+61) 411-544-913; (+84) 86-940-9967&lt;/p&gt;
     &lt;/div&gt;
@@ -184,7 +184,8 @@ document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
 &lt;p&gt;🔬&lt;strong&gt;Research interests:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;. Genetics and molecular biology,&lt;/p&gt;
 &lt;p&gt;. Plant disease defense and immunity,&lt;/p&gt;
-&lt;p&gt;. Plant genomics &amp;amp; transcriptomics,&lt;/p&gt;</description>
+&lt;p&gt;. Plant genomics &amp;amp; transcriptomics,&lt;/p&gt;
+&lt;p&gt;. Phytohormone regulations,&lt;/p&gt;</description>
     </item>
     <item>
       <title>About Me</title>
