@@ -2,7 +2,7 @@
 
 <div class="proteins-container">
     <div class="proteins image-container">
-        {{ $imageNames := slice "crfk.png" "IMG1.jpg" "IMG2.jpg" }}
+        {{ $imageNames := slice "IMG1.jpg" "IMG2.jpg" }}
         {{ range $imageNames }}
             <div class="proteins-item">
                 <img src="{{ printf "research/%s" . | absURL }}" alt="proteins">
