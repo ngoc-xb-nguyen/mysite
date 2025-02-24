@@ -12,8 +12,8 @@ Bangkok, Thailand
 
 📞 (+61) 411-544-913; (+84) 86-940-9967
 
-✉️ jeannguyen1993@gmail.com - ngoc.nguy@kmutt.ac.th - 
-xuanbaongoc.nguyen@adelaide.edu.au
+✉️ {{< colorforresearch color="darkblue" >}} jeannguyen1993@gmail.com - ngoc.nguy@kmutt.ac.th - 
+xuanbaongoc.nguyen@adelaide.edu.au {{< /colorforresearch >}}
 
 ---
 

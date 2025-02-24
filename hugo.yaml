@@ -147,8 +147,8 @@ menu:
       url: "https://ngoc-xb-nguyen.github.io/mysite/post/publications/"
       #url: "http://localhost:1313/post/Publications/"
       weight: 30
-    - identifier: "Research"
-      name: "Research"
+    - identifier: "Research & Service"
+      name: "Research & Service"
       url: "https://ngoc-xb-nguyen.github.io/mysite/post/research"
       #url: "http://localhost:1313/post/Research/"
       weight: 30

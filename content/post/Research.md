@@ -1,14 +1,19 @@
 ---
 date: '2025-02-18T10:56:02+07:00'
 draft: false
-title: 'Research'
+title: 'Research & Service'
 ---
 ---
+# Upcoming Projects
+
+
+🔬 **[Data analysis]** {{< colorforresearch color="darkblue" >}} Metagenomic analysis & disease diagnosis {{< /colorforresearch >}} in kangaroo and rabbit. This project is under the supervision of **Assoc. Prof. Farhid Hemmatzadeh**, School of Animal and Veterinary Sciences, University of Adelaide
+
 # Ongoing Projects
 
-🔬 **[Data analysis]** Transcriptome of the cut Vanda Blue Orchid
+🔬 **[Data analysis]** Transcriptome of the {{< colorforresearch color="darkblue" >}} cut Vanda Blue Orchid {{< /colorforresearch >}}, under the supervision of **Asst. Prof. Mantana Buanong**, Postharvest Technology of Ornamental Plant, KMUTT.
 
-🔬 **[Under review]** Transcriptome reveals the defense mechanism of *'Nam Dok Mai'* mango against *Colletotrichum gloeosporioides*
+🔬 **[Under review]** {{< colorforresearch color="darkblue" >}} Transcriptome {{< /colorforresearch >}} reveals the defense mechanism of *'Nam Dok Mai'* mango against *Colletotrichum gloeosporioides*
 
 #
 #

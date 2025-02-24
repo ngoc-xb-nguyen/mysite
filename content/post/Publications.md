@@ -10,7 +10,7 @@ title: 'Publications'
 
 
 # Peer-reviewed Articles
-# 2024
+# {{< colorforresearch color="darkblue" >}} 2024 {{< /colorforresearch >}}
 
 **Methyl salicylate induces endogenous jasmonic acid and salicylic acid in 'Nam Dok Mai' mango to maintain postharvest ripening and quality**
 
@@ -21,7 +21,7 @@ We found that methyl salicylate is a practical approach to boost the mango endog
 **Nguyen, N. X.**, Saithong, T., Boonyaritthongchai, P., Buanong, M., Kalapanulak, S., & Wongs-Aree, C. (2024). Methyl salicylate induces endogenous jasmonic acid and salicylic acid in'Nam Dok Mai'mango to maintain postharvest ripening and quality. **Journal of Plant Physiology**, 303, 154356.
 *https://doi.org/10.1016/j.jplph.2024.154356*
 
-# 2022
+# {{< colorforresearch color="darkblue" >}} 2022 {{< /colorforresearch >}}
 
 **Effects of gamma irradiation dose and short-term storage on phytochemicals, antioxidants, and textural properties of boiled ‘Tainan 9’ peanuts**
 
@@ -30,7 +30,7 @@ eating quality of boiled peanuts with good phytochemicals and antioxidant proper
 
 **Nguyen, N. X.**, Uthairatanakij, A., Laohakunjit, N., Jitareerat, P., Boonsirichai, K., Yap, E. S. P., & Kaprasob, R. (2022). Effects of gamma irradiation dose and short‐term storage on phytochemicals, antioxidants, and textural properties of boiled ‘Tainan 9’peanuts. **International Journal of Food Science & Technology**, 57(6), 3771-3782.*https://doi.org/10.1111/ijfs.15705*
 
-# 2020
+# {{< colorforresearch color="darkblue" >}} 2020 {{< /colorforresearch >}}
 
 **Oil characterization and aflatoxin profile of peanut kernel subjected to gamma irradiation**
 
@@ -41,7 +41,7 @@ Gamma irradiation at 10 kGy could be the optimum dose for stored peanut at the a
 
 # Conference Proceedings
 
-# 2019
+# {{< colorforresearch color="darkblue" >}} 2019 {{< /colorforresearch >}}
 
 **Effectiveness of vinegar as a sanitizing agent to maintain the postharvest quality of fresh-cut pumpkin**
 
