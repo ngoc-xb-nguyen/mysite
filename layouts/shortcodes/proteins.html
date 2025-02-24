@@ -2,7 +2,7 @@
 
 <div class="proteins-container">
     <div class="proteins image-container">
-        {{ $imageNames := slice "IMG1.jpg" "IMG2.jpg"}}
+        {{ $imageNames := slice "IMG1.jpg" "IMG2.jpg" "crfk.png"}}
         {{ range $imageNames }}
             <div class="proteins-item">
                 <img src="{{ printf "research/%s" . | absURL }}" alt="proteins">
@@ -26,7 +26,7 @@
         padding: 0;
     }
     .image-container img {
-        width: 97%; /* Adjust size to fit side by side */
+        width: 70%; /* Adjust size to fit side by side */
         height: auto; /* Maintain aspect ratio */
         object-fit: scale-down; /* Ensures image fits without distortion */
     }
