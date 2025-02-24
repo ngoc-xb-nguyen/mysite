@@ -33,7 +33,7 @@ Infectious Disease PC2 laboratory, University of Adelaide, South Australia
 
 Biochemical Molecular laboratory, KMUTT, Thailand
 
-✔ 7/2026 – 9/2016: {{< colorforresearch color="darkblue" >}} research intern {{< /colorforresearch >}}
+✔ 7/2016 – 9/2016: {{< colorforresearch color="darkblue" >}} research intern {{< /colorforresearch >}}
 
 Fats and Oils laboratory, Universiti Putra Malaysia, Malaysia
 #
