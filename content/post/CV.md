@@ -21,11 +21,11 @@ title: "CV"
 # 
 👩‍💼**Professional Experiences:**
 #
-✔ 1/2025 - present: {{< colorforresearch color="darkblue" >}} seasonal researcher {{< /colorforresearch >}}
+✔ 1/2025 - present: {{< colorforresearch color="darkblue" >}} research fellow {{< /colorforresearch >}}
 
 Postharvest Technology of Ornamental Plant, King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
 
-✔ 3/2024 - 7/2024: {{< colorforresearch color="darkblue" >}} research fellowship - casual staff {{< /colorforresearch >}}
+✔ 3/2024 - 7/2024: {{< colorforresearch color="darkblue" >}} research fellow - casual staff {{< /colorforresearch >}}
 
 Infectious Disease PC2 laboratory, University of Adelaide, South Australia
 

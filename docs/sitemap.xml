@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ngoc-xb-nguyen.github.io/mysite/post/contact/</loc>
+    <loc>http://localhost:1313/post/contact/</loc>
     <lastmod>2025-02-18T10:56:11+07:00</lastmod>
   </url><url>
-    <loc>https://ngoc-xb-nguyen.github.io/mysite/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-02-18T10:56:11+07:00</lastmod>
   </url><url>
-    <loc>https://ngoc-xb-nguyen.github.io/mysite/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-02-18T10:56:11+07:00</lastmod>
   </url><url>
-    <loc>https://ngoc-xb-nguyen.github.io/mysite/post/research/</loc>
+    <loc>http://localhost:1313/post/research/</loc>
     <lastmod>2025-02-18T10:56:02+07:00</lastmod>
   </url><url>
-    <loc>https://ngoc-xb-nguyen.github.io/mysite/post/publications/</loc>
+    <loc>http://localhost:1313/post/publications/</loc>
     <lastmod>2025-02-18T10:55:50+07:00</lastmod>
   </url><url>
-    <loc>https://ngoc-xb-nguyen.github.io/mysite/post/cv/</loc>
+    <loc>http://localhost:1313/post/cv/</loc>
     <lastmod>2025-02-18T10:51:47+07:00</lastmod>
   </url><url>
-    <loc>https://ngoc-xb-nguyen.github.io/mysite/post/about-me/</loc>
+    <loc>http://localhost:1313/post/about-me/</loc>
     <lastmod>2025-02-16T14:26:08+07:00</lastmod>
   </url><url>
-    <loc>https://ngoc-xb-nguyen.github.io/mysite/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://ngoc-xb-nguyen.github.io/mysite/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
