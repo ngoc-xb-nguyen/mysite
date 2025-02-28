@@ -1,6 +1,6 @@
 languageCode: en-us
-#baseURL: "https://ngoc-xb-nguyen.github.io/mysite/"
-baseURL: "http://localhost:1313/"
+baseURL: "https://ngoc-xb-nguyen.github.io/mysite/"
+#baseURL: "http://localhost:1313/"
 title: My website
 pagination:
   pagerSize: 10
@@ -138,28 +138,28 @@ menu:
   main:
     - identifier: "About me"
       name: "About Me"
-      #url: "https://ngoc-xb-nguyen.github.io/mysite/post/about-me/"
-      url: "http://localhost:1313/post/about-me"
+      url: "https://ngoc-xb-nguyen.github.io/mysite/post/about-me/"
+      #url: "http://localhost:1313/post/about-me"
       weight: 30
     - identifier: "CV"
       name: "CV"
-      #url: "https://ngoc-xb-nguyen.github.io/mysite/post/cv/"
-      url: "http://localhost:1313/post/cv"
+      url: "https://ngoc-xb-nguyen.github.io/mysite/post/cv/"
+      #url: "http://localhost:1313/post/cv"
       weight: 30  
     - identifier: "Publications"
       name: "Publications"
-      #url: "https://ngoc-xb-nguyen.github.io/mysite/post/publications/"
-      url: "http://localhost:1313/post/Publications/"
+      url: "https://ngoc-xb-nguyen.github.io/mysite/post/publications/"
+      #url: "http://localhost:1313/post/Publications/"
       weight: 30
     - identifier: "Research & Service"
       name: "Research & Service"
-      #url: "https://ngoc-xb-nguyen.github.io/mysite/post/research"
-      url: "http://localhost:1313/post/Research/"
+      url: "https://ngoc-xb-nguyen.github.io/mysite/post/research"
+      #url: "http://localhost:1313/post/Research/"
       weight: 30
     - identifier: "Contact"
       name: "Contact"
-      #url: "https://ngoc-xb-nguyen.github.io/mysite/post/contact"
-      url: "http://localhost:1313/post/contact"
+      url: "https://ngoc-xb-nguyen.github.io/mysite/post/contact"
+      #url: "http://localhost:1313/post/contact"
       weight: 30        
 
 
