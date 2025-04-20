@@ -21,7 +21,7 @@ title: "CV"
 # 
 👩‍💼**Professional Experiences:**
 #
-✔ 1/2025 - present: {{< colorforresearch color="darkblue" >}} research fellow {{< /colorforresearch >}}
+✔ 1/2025 - present: {{< colorforresearch color="darkblue" >}} research fellow - remote {{< /colorforresearch >}}
 
 Postharvest Technology of Ornamental Plant, King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
 

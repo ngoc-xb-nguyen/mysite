@@ -3,8 +3,11 @@ date: '2025-02-18T10:56:02+07:00'
 draft: false
 title: 'Research & Service'
 ---
+
 ---
 # Upcoming Projects
+
+🔬 {{< colorforresearch color="darkblue" >}} Brassinosteroid delays leaf yellowing in ferns. {{< /colorforresearch >}} This study is conducted under the supervision of **Asst. Prof. Mantana Buanong**, Postharvest Technology of Ornamental Plants, KMUTT.
 
 
 🔬 **[Data analysis]** {{< colorforresearch color="darkblue" >}} Metagenomic analysis & disease diagnosis {{< /colorforresearch >}} in kangaroo and rabbit. This project is under the supervision of **Assoc. Prof. Farhid Hemmatzadeh**, School of Animal and Veterinary Sciences, University of Adelaide

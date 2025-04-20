@@ -4,7 +4,7 @@
     <title>Tags on My website</title>
     <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on My website</description>
-    <generator>Hugo -- 0.143.1</generator>
+    <generator>Hugo -- 0.146.5</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
