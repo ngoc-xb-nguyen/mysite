@@ -1,19 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>My website</title>
-    <link>https://ngoc-xb-nguyen.github.io/mysite/</link>
-    <description>Recent content on My website</description>
-    <generator>Hugo -- 0.146.5</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 18 Feb 2025 10:56:11 +0700</lastBuildDate>
-    <atom:link href="https://ngoc-xb-nguyen.github.io/mysite/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Contact</title>
-      <link>https://ngoc-xb-nguyen.github.io/mysite/post/contact/</link>
-      <pubDate>Tue, 18 Feb 2025 10:56:11 +0700</pubDate>
-      <guid>https://ngoc-xb-nguyen.github.io/mysite/post/contact/</guid>
-      <description>&lt;p&gt;Ngoc X.B. Nguyen (Jean), Ph.D&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Welcome,</title>
+        <link>https://ngoc-xb-nguyen.github.io/mysite/</link>
+        <description>Recent content on Welcome,</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <managingEditor>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</managingEditor>
+        <webMaster>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</webMaster>
+        <lastBuildDate>Tue, 18 Feb 2025 10:56:11 +0700</lastBuildDate><atom:link href="https://ngoc-xb-nguyen.github.io/mysite/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Contact</title>
+        <link>https://ngoc-xb-nguyen.github.io/mysite/post/contact/</link>
+        <pubDate>Tue, 18 Feb 2025 10:56:11 +0700</pubDate>
+        <author>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</author>
+        <guid>https://ngoc-xb-nguyen.github.io/mysite/post/contact/</guid>
+        <description>&lt;p&gt;Ngoc X.B. Nguyen (Jean), Ph.D&lt;/p&gt;
 &lt;p&gt;King Mongkut’s University of Technology Thonburi (KMUTT),&lt;/p&gt;
 &lt;p&gt;Bangkok, Thailand&lt;/p&gt;
 &lt;p&gt;📞 (+61) 411-544-913; (+84) 86-940-9967&lt;/p&gt;
@@ -21,29 +22,96 @@
 xuanbaongoc.nguyen@adelaide.edu.au &lt;/span&gt;
 &lt;/p&gt;
 &lt;hr&gt;
-&lt;hr&gt;</description>
-    </item>
-    <item>
-      <title>Research &amp; Service</title>
-      <link>https://ngoc-xb-nguyen.github.io/mysite/post/research/</link>
-      <pubDate>Tue, 18 Feb 2025 10:56:02 +0700</pubDate>
-      <guid>https://ngoc-xb-nguyen.github.io/mysite/post/research/</guid>
-      <description>&lt;hr&gt;
-&lt;h1 id=&#34;upcoming-projects&#34;&gt;Upcoming Projects&lt;/h1&gt;
-&lt;p&gt;🔬 &lt;span style=&#34;color:darkblue&#34;&gt; Brassinosteroid delays leaf yellowing in ferns. &lt;/span&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Research &amp; Service</title>
+        <link>https://ngoc-xb-nguyen.github.io/mysite/post/research/</link>
+        <pubDate>Tue, 18 Feb 2025 10:56:02 +0700</pubDate>
+        <author>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</author>
+        <guid>https://ngoc-xb-nguyen.github.io/mysite/post/research/</guid>
+        <description>&lt;hr&gt;
+&lt;h1 id=&#34;upcoming-projects&#34;&gt;Upcoming Projects
+&lt;/h1&gt;&lt;p&gt;🔬 &lt;span style=&#34;color:darkblue&#34;&gt; Brassinosteroid delays leaf yellowing in ferns. &lt;/span&gt;
  This study is conducted under the supervision of &lt;strong&gt;Asst. Prof. Mantana Buanong&lt;/strong&gt;, Postharvest Technology of Ornamental Plants, KMUTT.&lt;/p&gt;
 &lt;p&gt;🔬 &lt;strong&gt;[Data analysis]&lt;/strong&gt; &lt;span style=&#34;color:darkblue&#34;&gt; Metagenomic analysis &amp; disease diagnosis &lt;/span&gt;
  in kangaroo and rabbit. This project is under the supervision of &lt;strong&gt;Assoc. Prof. Farhid Hemmatzadeh&lt;/strong&gt;, School of Animal and Veterinary Sciences, University of Adelaide&lt;/p&gt;
-&lt;h1 id=&#34;ongoing-projects&#34;&gt;Ongoing Projects&lt;/h1&gt;
-&lt;p&gt;🔬 &lt;strong&gt;[Data analysis]&lt;/strong&gt; Transcriptome of the &lt;span style=&#34;color:darkblue&#34;&gt; cut Vanda Blue Orchid &lt;/span&gt;
-, under the supervision of &lt;strong&gt;Asst. Prof. Mantana Buanong&lt;/strong&gt;, Postharvest Technology of Ornamental Plant, KMUTT.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>https://ngoc-xb-nguyen.github.io/mysite/post/publications/</link>
-      <pubDate>Tue, 18 Feb 2025 10:55:50 +0700</pubDate>
-      <guid>https://ngoc-xb-nguyen.github.io/mysite/post/publications/</guid>
-      <description>&lt;hr&gt;
+&lt;h1 id=&#34;ongoing-projects&#34;&gt;Ongoing Projects
+&lt;/h1&gt;&lt;p&gt;🔬 &lt;strong&gt;[Data analysis]&lt;/strong&gt; Transcriptome of the &lt;span style=&#34;color:darkblue&#34;&gt; cut Vanda Blue Orchid &lt;/span&gt;
+, under the supervision of &lt;strong&gt;Asst. Prof. Mantana Buanong&lt;/strong&gt;, Postharvest Technology of Ornamental Plant, KMUTT.&lt;/p&gt;
+&lt;p&gt;🔬 &lt;strong&gt;[Under review]&lt;/strong&gt; &lt;span style=&#34;color:darkblue&#34;&gt; Transcriptome &lt;/span&gt;
+ reveals the defense mechanism of &lt;em&gt;&amp;lsquo;Nam Dok Mai&amp;rsquo;&lt;/em&gt; mango against &lt;em&gt;Colletotrichum gloeosporioides&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;h1 id=&#34;past-projects&#34;&gt;Past Projects
+&lt;/h1&gt;&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;🔬 &lt;strong&gt;Metagenome analysis of the orange-bellied parrot&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;div class=&#34;kraken2-container&#34;&gt;
+    &lt;div class=&#34;kraken2 image-container&#34;&gt;
+        
+        
+            &lt;div class=&#34;kraken2-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/research/P1.jpg&#34; alt=&#34;kraken2&#34;&gt;
+            &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p&gt;A zoologist came to us with infected birds that died from necrotizing non-suppurative hepatitis/splenitis of unknown cause. We conducted a metagenomic analysis, which &lt;em&gt;Chlamydia pstittaci&lt;/em&gt; was found as causal pathogen.&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;🔬 &lt;strong&gt;Identified the protein profile of Canine Parvovirus using various purification methods&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;div class=&#34;proteins-container&#34;&gt;
+    &lt;div class=&#34;proteins image-container&#34;&gt;
+        
+        
+            &lt;div class=&#34;proteins-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/research/IMG1.jpg&#34; alt=&#34;proteins&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;proteins-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/research/IMG2.jpg&#34; alt=&#34;proteins&#34;&gt;
+            &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+    .image-container {
+        display: flex;
+        justify-content: center;  
+        align-items: center;  
+        flex-wrap: nowrap;  
+        gap: 0px;  
+        text-align: center;
+    }
+    .pub2024-item {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+    }
+    .image-container img {
+        width: 90%;  
+        height: auto;  
+        object-fit: scale-down;  
+    }
+&lt;/style&gt;
+&lt;p&gt;Since Parvovirus is small and highly stable against physicochemical changes, making extraction and purification challenging. We cultured the virus in CRFK cell, then extracted and purified the virus using filter membranes and ultracentrifugation approaches.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>Publications</title>
+        <link>https://ngoc-xb-nguyen.github.io/mysite/post/publications/</link>
+        <pubDate>Tue, 18 Feb 2025 10:55:50 +0700</pubDate>
+        <author>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</author>
+        <guid>https://ngoc-xb-nguyen.github.io/mysite/post/publications/</guid>
+        <description>&lt;hr&gt;
 
 
 &lt;div class=&#34;cover-container&#34;&gt;
@@ -142,14 +210,86 @@ document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
 });
 &lt;/script&gt;
 
-&lt;p&gt;🔎 &lt;em&gt;Find my list of publications in&lt;/em&gt; &lt;a href=&#34;https://scholar.google.com/citations?user=kUjOJhMAAAAJ&amp;amp;hl=vi&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>CV</title>
-      <link>https://ngoc-xb-nguyen.github.io/mysite/post/cv/</link>
-      <pubDate>Tue, 18 Feb 2025 10:51:47 +0700</pubDate>
-      <guid>https://ngoc-xb-nguyen.github.io/mysite/post/cv/</guid>
-      <description>&lt;div class=&#34;cv-container&#34;&gt;
+&lt;p&gt;🔎 &lt;em&gt;Find my list of publications in&lt;/em&gt; &lt;a class=&#34;link&#34; href=&#34;https://scholar.google.com/citations?user=kUjOJhMAAAAJ&amp;amp;hl=vi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;peer-reviewed-articles&#34;&gt;Peer-reviewed Articles
+&lt;/h1&gt;&lt;h1 id=&#34;hahahugoshortcode3s1hbhb&#34;&gt;&lt;span style=&#34;color:darkblue&#34;&gt; 2024 &lt;/span&gt;
+
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Methyl salicylate induces endogenous jasmonic acid and salicylic acid in &amp;lsquo;Nam Dok Mai&amp;rsquo; mango to maintain postharvest ripening and quality&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;pub2024-container&#34;&gt;
+    &lt;div class=&#34;pub2024 image-container&#34;&gt;
+        
+        
+            &lt;div class=&#34;pub2024-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/pub2024/Picture1.jpg&#34; alt=&#34;pub2024&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;pub2024-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/pub2024/P3.jpg&#34; alt=&#34;pub2024&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;pub2024-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/pub2024/P2.jpg&#34; alt=&#34;pub2024&#34;&gt;
+            &lt;/div&gt;
+        
+    &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+    .image-container {
+        display: flex;
+        justify-content: center;  
+        align-items: center;  
+        flex-wrap: nowrap;  
+        gap: 0px;  
+        text-align: center;
+    }
+    .pub2024-item {
+        display: inline-block;
+        margin: 0;
+        padding: 0;
+    }
+    .image-container img {
+        width: 97%;  
+        height: auto;  
+        object-fit: scale-down;  
+    }
+&lt;/style&gt;
+
+&lt;p&gt;We found that methyl salicylate is a practical approach to boost the mango endogenous salicylic acid and jasmonic acid levels. The combination elicited tradeoff responses from individual methyl salicylate and methyl jasmonate applications.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nguyen, N. X.&lt;/strong&gt;, Saithong, T., Boonyaritthongchai, P., Buanong, M., Kalapanulak, S., &amp;amp; Wongs-Aree, C. (2024). Methyl salicylate induces endogenous jasmonic acid and salicylic acid in&amp;rsquo;Nam Dok Mai&amp;rsquo;mango to maintain postharvest ripening and quality. &lt;strong&gt;Journal of Plant Physiology&lt;/strong&gt;, 303, 154356.
+&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1016/j.jplph.2024.154356&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.1016/j.jplph.2024.154356&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;hahahugoshortcode3s3hbhb&#34;&gt;&lt;span style=&#34;color:darkblue&#34;&gt; 2022 &lt;/span&gt;
+
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Effects of gamma irradiation dose and short-term storage on phytochemicals, antioxidants, and textural properties of boiled ‘Tainan 9’ peanuts&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gamma irradiation at 5 kGy is recommended for postharvest treatment of raw peanuts with subsequent storage up to 180 days to obtain the
+eating quality of boiled peanuts with good phytochemicals and antioxidant properties, which is a challenge for food industry.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nguyen, N. X.&lt;/strong&gt;, Uthairatanakij, A., Laohakunjit, N., Jitareerat, P., Boonsirichai, K., Yap, E. S. P., &amp;amp; Kaprasob, R. (2022). Effects of gamma irradiation dose and short‐term storage on phytochemicals, antioxidants, and textural properties of boiled ‘Tainan 9’peanuts. &lt;strong&gt;International Journal of Food Science &amp;amp; Technology&lt;/strong&gt;, 57(6), 3771-3782.&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1111/ijfs.15705&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.1111/ijfs.15705&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;hahahugoshortcode3s4hbhb&#34;&gt;&lt;span style=&#34;color:darkblue&#34;&gt; 2020 &lt;/span&gt;
+
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Oil characterization and aflatoxin profile of peanut kernel subjected to gamma irradiation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Gamma irradiation at 10 kGy could be the optimum dose for stored peanut at the ambient temperature up to 6 months.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nguyen, N. X.&lt;/strong&gt;, Uthairatanakij, A., Laohakunjit, N., Jitareerat, P., Rattanakreetakul, C., Boonsirichai, K., &amp;amp; Kaisangsri, N. (2020). Oil characterization and aflatoxin profile of peanut kernel subjected to gamma-irradiation. &lt;strong&gt;International Journal of Food Engineering&lt;/strong&gt;, 6(1), 2-6.
+&lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.ijfe.org/uploadfile/2020/0622/20200622045517520.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.ijfe.org/uploadfile/2020/0622/20200622045517520.pdf&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h1 id=&#34;conference-proceedings&#34;&gt;Conference Proceedings
+&lt;/h1&gt;&lt;h1 id=&#34;hahahugoshortcode3s5hbhb&#34;&gt;&lt;span style=&#34;color:darkblue&#34;&gt; 2019 &lt;/span&gt;
+
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Effectiveness of vinegar as a sanitizing agent to maintain the postharvest quality of fresh-cut pumpkin&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nguyen, X. B. N.&lt;/strong&gt;, Jitareerat, P., &amp;amp; Uthairatanakij, A. Effectiveness of Vinegar as a Sanitizing Agent to Maintain the Postharvest Quality of Fresh-cut Pumpkin. &lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.phtnet.org/download/phtic-seminar/1952.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.phtnet.org/download/phtic-seminar/1952.pdf&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>CV</title>
+        <link>https://ngoc-xb-nguyen.github.io/mysite/post/cv/</link>
+        <pubDate>Tue, 18 Feb 2025 10:51:47 +0700</pubDate>
+        <author>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</author>
+        <guid>https://ngoc-xb-nguyen.github.io/mysite/post/cv/</guid>
+        <description>&lt;div class=&#34;cv-container&#34;&gt;
     &lt;div class=&#34;profile-image&#34;&gt;
         &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/image/DSC.jpg&#34; alt=&#34;Profile Image&#34;&gt;
     &lt;/div&gt;
@@ -180,22 +320,322 @@ document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
     }
 &lt;/style&gt;
 
-&lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;🔬&lt;strong&gt;Research interests:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;🔬&lt;strong&gt;Research interests:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;. Genetics and molecular biology,&lt;/p&gt;
 &lt;p&gt;. Plant disease defense and immunity,&lt;/p&gt;
 &lt;p&gt;. Plant genomics &amp;amp; transcriptomics,&lt;/p&gt;
-&lt;p&gt;. Phytohormone regulations,&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>About Me</title>
-      <link>https://ngoc-xb-nguyen.github.io/mysite/post/about-me/</link>
-      <pubDate>Sun, 16 Feb 2025 14:26:08 +0700</pubDate>
-      <guid>https://ngoc-xb-nguyen.github.io/mysite/post/about-me/</guid>
-      <description>&lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;&lt;strong&gt;Ngoc X.B. Nguyen (Jean)&lt;/strong&gt; is a &lt;strong&gt;junior scientist and researcher&lt;/strong&gt; at the Postharvest Technology of Ornamental Plant, School of Bioresources and Technology, King Mongkut’s University of Technology Thonburi (KMUTT), Bangkok, Thailand. Her current project, under the supervision of &lt;strong&gt;Asst. Prof. Mantana Buanong&lt;/strong&gt;, focuses on the &lt;strong&gt;transcriptomic analysis of cut Vanda orchid flowers, aiming to discover ethylene regulators in the flower senescence&lt;/strong&gt;.&lt;/p&gt;
-&lt;h1&gt;&lt;/h1&gt;
-&lt;p&gt;Before joining the Vanda orchid project, she worked as a research staff member at the School of Animal and Veterinary Sciences, University of Adelaide (Roseworthy Campus), South Australia, under the guidance of Assoc. Prof. Dr. Farhid Hemmatzadeh.&lt;/p&gt;</description>
-    </item>
-  </channel>
+&lt;p&gt;. Phytohormone regulations,&lt;/p&gt;
+&lt;p&gt;. Metagenomic &amp;amp; disease diagnosis&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;👩‍💼&lt;strong&gt;Professional Experiences:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;✔ 1/2025 - present: &lt;span style=&#34;color:darkblue&#34;&gt; research fellow - remote &lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;Postharvest Technology of Ornamental Plant, King Mongkut’s University of Technology Thonburi (KMUTT), Thailand&lt;/p&gt;
+&lt;p&gt;✔ 3/2024 - 7/2024: &lt;span style=&#34;color:darkblue&#34;&gt; research fellow - casual staff &lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;Infectious Disease PC2 laboratory, University of Adelaide, South Australia&lt;/p&gt;
+&lt;p&gt;✔ 9/2020 – 1/2021: &lt;span style=&#34;color:darkblue&#34;&gt; laboratory assistant &lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;Biochemical Molecular laboratory, KMUTT, Thailand&lt;/p&gt;
+&lt;p&gt;✔ 7/2016 – 9/2016: &lt;span style=&#34;color:darkblue&#34;&gt; research intern &lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;Fats and Oils laboratory, Universiti Putra Malaysia, Malaysia&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;🎓 &lt;strong&gt;Education:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;✔ 2021 - 2024: Ph.D in &lt;span style=&#34;color:darkblue&#34;&gt; Postharvest Technology &lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;School of Bioresources and Technology, KMUTT, Thailand&lt;/p&gt;
+&lt;p&gt;✔ 2018 - 2020: MSc. in &lt;span style=&#34;color:darkblue&#34;&gt; Postharvest Technology (AgriScience and Technology) &lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;School of Bioresources and Technology, KMUTT, Thailand&lt;/p&gt;
+&lt;p&gt;✔ 2012 - 2017: B.Eng. in &lt;span style=&#34;color:darkblue&#34;&gt; Food Science and Technology &lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;Nong Lam University, Ho Chi Minh city, Vietnam&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;🔎 &lt;a class=&#34;link&#34; href=&#34;https://scholar.google.com/citations?user=kUjOJhMAAAAJ&amp;amp;hl=vi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Publications&lt;/a&gt;&lt;br&gt;
+Find my list of publications in &lt;a class=&#34;link&#34; href=&#34;https://scholar.google.com/citations?user=kUjOJhMAAAAJ&amp;amp;hl=vi&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;🔬&lt;strong&gt;Research projects:&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;. Transcriptome of the Vanda Blue Orchid&lt;/p&gt;
+&lt;p&gt;. Metagenome analysis of the orange-bellied parrot&lt;/p&gt;
+&lt;p&gt;. Identified the protein profile of Canine Parvovirus using various purification methods&lt;/p&gt;
+&lt;p&gt;. Postharvest Induction of anthracnose resistance in ‘Nam Dok Mai’ mango fruit by plant growth regulators (PhD project, funded by the
+&lt;em&gt;Petchra Pra Jom Klao Scholarship, Thailand&lt;/em&gt;) &lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1016/j.jplph.2024.154356&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.1016/j.jplph.2024.154356&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;. Effectiveness of vinegar as a sanitizing agent to maintain the postharvest quality of fresh-cut pumpkin (Funded by the &lt;em&gt;Petchra
+Pra Jom Klao Scholarship&lt;/em&gt;) &lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.phtnet.org/download/phtic-seminar/1952.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://www.phtnet.org/download/phtic-seminar/1952.pdf&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;. Oil characterization and aflatoxin profile of peanut kernel subjected to gamma irradiation (Funded by the &lt;em&gt;Petchra Pra Jom Klao
+Scholarship&lt;/em&gt;) &lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;http://www.ijfe.org/uploadfile/2020/0622/20200622045517520.pdf&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;http://www.ijfe.org/uploadfile/2020/0622/20200622045517520.pdf&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;. Effects of gamma irradiation dose and short‐term storage on phytochemicals, antioxidants, and textural properties of boiled
+‘Tainan 9’peanuts (Funded by the &lt;em&gt;Petchra Pra Jom Klao Scholarship&lt;/em&gt;) &lt;em&gt;&lt;a class=&#34;link&#34; href=&#34;https://doi.org/10.1111/ijfs.15705&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://doi.org/10.1111/ijfs.15705&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;. Use of redox agents and organic acids under active modified atmosphere to replace sulfur dioxide fumigation of logan in retail
+supply chain (Funded by &lt;em&gt;Postharvest Technology Innovation Center, Thailand&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;. Preparation of lutein nano-dispersion via solvent displacement method: comparison between three different emulsifiers (Funded
+by &lt;em&gt;Advanced Programme Scholarship, Nong Lam University, Vietnam&lt;/em&gt;)&lt;/p&gt;
+&lt;hr&gt;
+</description>
+        </item>
+        <item>
+        <title>About Me</title>
+        <link>https://ngoc-xb-nguyen.github.io/mysite/post/about-me/</link>
+        <pubDate>Sun, 16 Feb 2025 14:26:08 +0700</pubDate>
+        <author>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</author>
+        <guid>https://ngoc-xb-nguyen.github.io/mysite/post/about-me/</guid>
+        <description>&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Ngoc X.B. Nguyen (Jean)&lt;/strong&gt; is a &lt;strong&gt;junior scientist and researcher&lt;/strong&gt; at the Postharvest Technology of Ornamental Plant, School of Bioresources and Technology, King Mongkut’s University of Technology Thonburi (KMUTT), Bangkok, Thailand. Her current project, under the supervision of &lt;strong&gt;Asst. Prof. Mantana Buanong&lt;/strong&gt;, focuses on the &lt;strong&gt;transcriptomic analysis of cut Vanda orchid flowers, aiming to discover ethylene regulators in the flower senescence&lt;/strong&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;Before joining the Vanda orchid project, she worked as a research staff member at the School of Animal and Veterinary Sciences, University of Adelaide (Roseworthy Campus), South Australia, under the guidance of Assoc. Prof. Dr. Farhid Hemmatzadeh.&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;Ngoc holds a &lt;strong&gt;Ph.D. in Postharvest Technology (2024)&lt;/strong&gt; and an &lt;strong&gt;M.Sc. in Postharvest Technology (AgriScience Technology)&lt;/strong&gt; from KMUTT, and a &lt;strong&gt;B.Eng. in Food Science and Technology&lt;/strong&gt; from Nong Lam University, Ho Chi Minh City, Vietnam. With a strong interdisciplinary background, she has gained extensive research experience across multiple laboratories and countries, including: &lt;strong&gt;Fat and Oil Lab – Universiti Putra Malaysia (UPM); Postharvest Molecular Biochemistry Lab – KMUTT, Thailand; Infectious Disease PC2 Lab – University of Adelaide, Australia; and Meat and Fish Lab – Nong Lam University, Vietnam&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;Her research interests lie at the intersection of &lt;strong&gt;bioinformatics, molecular biology, and postharvest technology&lt;/strong&gt;. She specializes in &lt;strong&gt;Next-Generation Sequencing (NGS) technologies&lt;/strong&gt;, leveraging &lt;strong&gt;transcriptomic and genomic&lt;/strong&gt; data to better understand &lt;strong&gt;plant physiology and pathology&lt;/strong&gt;.&lt;/p&gt;
+&lt;h1 id=&#34;research-disciplines&#34;&gt;Research Disciplines:
+&lt;/h1&gt;&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;🌱 Agricultural Plant Science
+🌾 Horticulture &amp;amp; Postharvest Technology
+🧬 Bioinformatics &amp;amp; NGS Technologies
+🧬 Plant Molecular Biology&lt;/p&gt;
+&lt;h1 id=&#34;honours-and-awards&#34;&gt;Honours and Awards:
+&lt;/h1&gt;&lt;p&gt;🏆 Achieved the third prize in the Vietnam National Biology Excellence Competition in the 2007 – 2008&lt;/p&gt;
+&lt;h1 id=&#34;&#34;&gt;
+&lt;/h1&gt;&lt;p&gt;🏆 Achieved the Vietnam National Five Goods Student (sinh vien nam tot cap trung uong) in 2020&lt;/p&gt;
+&lt;h1 id=&#34;image-gallery&#34;&gt;Image Gallery
+&lt;/h1&gt;  
+
+&lt;div class=&#34;gallery-container&#34;&gt;
+    &lt;button class=&#34;prev-btn&#34;&gt;&amp;#10094;&lt;/button&gt;
+    &lt;div class=&#34;gallery&#34; id=&#34;gallery&#34;&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/a.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/b.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/c.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/d.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/e.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/f.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/g.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/aa.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/bb.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/cc.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/dd.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/ee.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/ff.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/gg.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/h.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/hh.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/j.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/k.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/l.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/m.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/n.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/o.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/p.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/q.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/s.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/ss.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/t.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/u.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/v.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/w.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/y.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/z.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/vv.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/zz.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+            &lt;div class=&#34;gallery-item&#34;&gt;
+                &lt;img src=&#34;https://ngoc-xb-nguyen.github.io/mysite/images/xx.jpeg&#34; alt=&#34;Gallery Image&#34;&gt;
+            &lt;/div&gt;
+        
+    &lt;/div&gt;
+    &lt;button class=&#34;next-btn&#34;&gt;&amp;#10095;&lt;/button&gt;
+&lt;/div&gt;
+
+&lt;style&gt;
+    .gallery-container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        position: relative;
+        max-width: 100%;
+        margin: auto;
+        overflow: hidden;
+    }
+    .gallery {
+        display: flex;
+        overflow-x: auto;
+        scroll-behavior: smooth;
+        gap: 20px;
+        padding: 10px;
+        white-space: nowrap;
+    }
+    .gallery-item {
+        flex: 0 0 auto;
+        width: 500px;
+        cursor: grab;
+    }
+    .gallery img {
+        width: 100%;
+        border-radius: 2px;
+        box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+    }
+    .prev-btn, .next-btn {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        background-color: rgba(0,0,0,0.5);
+        color: white;
+        border: none;
+        padding: 10px;
+        cursor: pointer;
+        font-size: 24px;
+        border-radius: 50%;
+    }
+    .prev-btn { left: 5px; }
+    .next-btn { right: 5px; }
+&lt;/style&gt;
+
+&lt;script&gt;
+document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
+    const gallery = document.getElementById(&#34;gallery&#34;);
+    let isDragging = false, startX, scrollLeft;
+
+    
+    gallery.addEventListener(&#34;mousedown&#34;, (e) =&gt; {
+        isDragging = true;
+        startX = e.pageX - gallery.offsetLeft;
+        scrollLeft = gallery.scrollLeft;
+    });
+    gallery.addEventListener(&#34;mouseleave&#34;, () =&gt; { isDragging = false; });
+    gallery.addEventListener(&#34;mouseup&#34;, () =&gt; { isDragging = false; });
+    gallery.addEventListener(&#34;mousemove&#34;, (e) =&gt; {
+        if (!isDragging) return;
+        e.preventDefault();
+        const x = e.pageX - gallery.offsetLeft;
+        const walk = (x - startX) * 2; 
+        gallery.scrollLeft = scrollLeft - walk;
+    });
+
+    
+    document.querySelector(&#34;.prev-btn&#34;).addEventListener(&#34;click&#34;, () =&gt; {
+        gallery.scrollLeft -= 200;
+    });
+    document.querySelector(&#34;.next-btn&#34;).addEventListener(&#34;click&#34;, () =&gt; {
+        gallery.scrollLeft += 200;
+    });
+});
+&lt;/script&gt;
+
+&lt;hr&gt;
+</description>
+        </item>
+        
+    </channel>
 </rss>

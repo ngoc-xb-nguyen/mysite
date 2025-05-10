@@ -1,3 +1,1 @@
 User-agent: *
-Disallow:
-Sitemap: https://ngoc-xb-nguyen.github.io/mysite/sitemap.xml
