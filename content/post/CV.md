@@ -6,6 +6,11 @@ title: "CV"
 
 {{< cv >}}
 
+🔎 *Find my* [ORCID](https://orcid.org/0000-0002-6802-5509)
+🔎 [ResearchGate] (https://www.researchgate.net/profile/Xuan-Bao-Ngoc-Nguyen?ev=hdr_xprf)
+
+
+
 #
 🔬**Research interests:**
 

@@ -26,6 +26,7 @@ params:
   rssFullContent: true
   
   sidebar:
+
     compact: false
     emoji: 👋
     subtitle: "This is the website of Ngoc X. B. Nguyen (Jean), Ph.D."
@@ -36,6 +37,10 @@ params:
       enabled: true 
       local: 
       src: "images/jeann.jpg"
+
+    
+
+
 
 
 
@@ -51,11 +56,7 @@ params:
   ShowPostList: true
   fingerprinting: false
 
-  profileMode:
-    enabled: true
-    imageUrl: "http://localhost:1313/images/jeann.jpg"
-    imageWidth: 150
-    imageHeight: 150
+
 
 
   ShowReadingTime: true
@@ -92,10 +93,7 @@ params:
   
 
 
-  # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+
 
   socialIcons:
     - name: orcid
@@ -146,26 +144,37 @@ menu:
       url: "https://ngoc-xb-nguyen.github.io/mysite/post/about-me/"
       #url: "http://localhost:1313/post/about-me"
       weight: 30
+      params:
+        icon: message-chatbot
     - identifier: "CV"
       name: "CV"
       url: "https://ngoc-xb-nguyen.github.io/mysite/post/cv/"
       #url: "http://localhost:1313/post/cv"
       weight: 30  
+      params:
+        icon: file-cv
     - identifier: "Publications"
       name: "Publications"
       url: "https://ngoc-xb-nguyen.github.io/mysite/post/publications/"
       #url: "http://localhost:1313/post/Publications/"
       weight: 30
+      params:
+        icon: file-analytics
     - identifier: "Research & Service"
       name: "Research & Service"
       url: "https://ngoc-xb-nguyen.github.io/mysite/post/research"
       #url: "http://localhost:1313/post/Research/"
       weight: 30
+      params:
+        icon: flask
     - identifier: "Contact"
       name: "Contact"
       url: "https://ngoc-xb-nguyen.github.io/mysite/post/contact"
       #url: "http://localhost:1313/post/contact"
-      weight: 30        
+      weight: 30
+      params:
+        icon: map-minus
+        
 
 
 

@@ -3,6 +3,8 @@ date: '2025-02-18T10:56:11+07:00'
 draft: false
 title: 'Contact'
 ---
+{{< figure src="kmutt.jpg" alt="KMUTT logo" >}}
+
 
 Ngoc X.B. Nguyen (Jean), Ph.D
 
