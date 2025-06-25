@@ -16,44 +16,60 @@
     .gallery-container {
         display: flex;
         align-items: center;
-        justify-content: center;
         position: relative;
-        max-width: 100%;
-        margin: auto;
+        width: 100%;
+        padding: 1em 0;
         overflow: hidden;
     }
     .gallery {
         display: flex;
         overflow-x: auto;
         scroll-behavior: smooth;
-        gap: 20px;
+        gap: 16px;
         padding: 10px;
-        white-space: nowrap;
+        scroll-snap-type: x mandatory;
     }
     .gallery-item {
         flex: 0 0 auto;
-        width: 500px;
-        cursor: grab;
+        scroll-snap-align: center;
+        width: 300px;
+        height: 200px;
+        border-radius: 8px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        background-color: #fff;
+    
     }
-    .gallery img {
+    .gallery-item img {
         width: 100%;
-        border-radius: 2px;
-        box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
-    }
+        height: 100%;
+        object-fit: cover;
+        display: block;
+    }    
+
     .prev-btn, .next-btn {
         position: absolute;
         top: 50%;
         transform: translateY(-50%);
-        background-color: rgba(0,0,0,0.5);
-        color: white;
+        background: rgba(0,0,0,0.5);
         border: none;
-        padding: 10px;
+        color: #fff;
+        width: 40px;
+        height: 40px;
         cursor: pointer;
-        font-size: 24px;
+        font-size: 20px;
         border-radius: 50%;
+        z-index: 10;
     }
-    .prev-btn { left: 5px; }
-    .next-btn { right: 5px; }
+
+    .prev-btn { left: 10px; }
+    .next-btn { right: 10px; }
+
+    @media (max-width: 768px) {
+        .gallery-item {
+            width: 200px;
+            height: 140px;
+        }
+}
 </style>
 
 <script>
