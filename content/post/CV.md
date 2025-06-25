@@ -6,17 +6,16 @@ title: "CV"
 
 {{< cv >}}
 
-🔎 *Find my* [ORCID](https://orcid.org/0000-0002-6802-5509) 
-*,my* [ResearchGate](https://www.researchgate.net/profile/Xuan-Bao-Ngoc-Nguyen?ev=hdr_xprf)
-*,and* [GoogleScholar](https://scholar.google.com/citations?user=kUjOJhMAAAAJ&hl=vi)
-*,or* [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57558082500)
 
 
+🔗 **Find me on:**
+[ORCID](https://orcid.org/0000-0002-6802-5509), 
+[ResearchGate](https://www.researchgate.net/profile/Xuan-Bao-Ngoc-Nguyen?ev=hdr_xprf), 
+[GoogleScholar](https://scholar.google.com/citations?user=kUjOJhMAAAAJ&hl=vi) ,
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57558082500)
 
 
-
-#
-🔬**Research interests:**
+## 🔬 Research Interests
 
 . Genetics and molecular biology,
 
@@ -27,26 +26,29 @@ title: "CV"
 . Phytohormone regulations,
 
 . Metagenomic & disease diagnosis
-# 
-👩‍💼**Professional Experiences:**
+
+
+## 👩‍💼Professional Experiences
 #
-✔ 1/2025 - present: {{< colorforresearch color="darkblue" >}} research fellow - remote {{< /colorforresearch >}}
 
-Postharvest Technology of Ornamental Plant, King Mongkut’s University of Technology Thonburi (KMUTT), Thailand
+📅 1/2025 - 6/2025
+**🔹 {{< colorforresearch color="darkblue" >}} Research Fellow (Remote) {{< /colorforresearch >}}** 
+*Postharvest Technology of Ornamental Plant, KMUTT, Thailand*  
 
-✔ 3/2024 - 7/2024: {{< colorforresearch color="darkblue" >}} research fellow - casual staff {{< /colorforresearch >}}
+📅 3/2024 - 7/2024
+**🔹 {{< colorforresearch color="darkblue" >}} Research Fellow (Casual staff) {{< /colorforresearch >}}**
+*Infectious Disease PC2 laboratory, University of Adelaide, South Australia*
 
-Infectious Disease PC2 laboratory, University of Adelaide, South Australia
+📅 9/2020 – 1/2021
+**🔹{{< colorforresearch color="darkblue" >}} Laboratory Assistant {{< /colorforresearch >}}**
+*Biochemical Molecular laboratory, KMUTT, Thailand*
 
-✔ 9/2020 – 1/2021: {{< colorforresearch color="darkblue" >}} laboratory assistant {{< /colorforresearch >}}
-
-Biochemical Molecular laboratory, KMUTT, Thailand
-
-✔ 7/2016 – 9/2016: {{< colorforresearch color="darkblue" >}} research intern {{< /colorforresearch >}}
-
-Fats and Oils laboratory, Universiti Putra Malaysia, Malaysia
+📅 7/2016 – 9/2016
+**🔹 {{< colorforresearch color="darkblue" >}} Research Intern {{< /colorforresearch >}}**
+*Fats and Oils laboratory, Universiti Putra Malaysia, Malaysia*
 #
-🎓 **Education:**
+
+## 🎓 Education:
 
 ✔ 2021 - 2024: Ph.D in {{< colorforresearch color="darkblue" >}} Postharvest Technology {{< /colorforresearch >}}
 
@@ -60,10 +62,12 @@ School of Bioresources and Technology, KMUTT, Thailand
 
 Nong Lam University, Ho Chi Minh city, Vietnam
 #
-🔎 [Publications](https://scholar.google.com/citations?user=kUjOJhMAAAAJ&hl=vi)  
+
+## 🔎 [Publications](https://scholar.google.com/citations?user=kUjOJhMAAAAJ&hl=vi)  
 Find my list of publications in [Google Scholar](https://scholar.google.com/citations?user=kUjOJhMAAAAJ&hl=vi).
 #
-🔬**Research projects:**
+
+## 🔬 Research projects:
 #
 . Transcriptome of the Vanda Blue Orchid
 
