@@ -25,7 +25,9 @@ Her research interests lie at the intersection of **bioinformatics, molecular bi
 # Honours and Awards:
 🏆 Achieved the third prize in the Vietnam National Biology Excellence Competition in the 2007 – 2008
 #
-🏆 Achieved the Vietnam National Five Goods Student (sinh vien nam tot cap trung uong) in 2020
+🏆 Achieved the Vietnam National Student With Five Good Merits (sinh vien nam tot cap trung uong) in 2020
+
+🔗 **Find my**  {{< cer >}}
 
 # Image Gallery
 

@@ -10,6 +10,22 @@ title: 'Publications'
 
 
 # Peer-reviewed Articles
+# {{< colorforresearch color="darkblue" >}} 2025 {{< /colorforresearch >}}
+
+**MeSA fumigation enhances the response to *Colletotrichum gloeosporioides* in postharvest 'Nam Dok Mai' mangoes by inducing endogenous jasmonic acid biosynthesis and *MiSAMT* expression**
+
+{{< pub2025 >}}
+
+
+In this study, we combined *in silico* and molecular-biochemical analyses to better understand how mangoes defend themselves against *Colletotrichum gloeosporioides*. 
+
+Our results show that two natural phytohormones, jasmonic acid (JA) and salicylic acid (SA), work together to slow down the anthracnose disease and boost the plant defenses. JA kicks in first, along with synthesized methyl salicylate, from SA methylation via *MiSAMT*, helping send a “warning” message. Soon after, SA builds up and takes the lead in longer-term protection (known as a controller of systemic acquired resistance, or SAR). Applying methyl salicylate vapor as a postharvest treatment further boosts this natural defense mechanism and delays the disease spread.
+
+This is also my first paper that takes a step into the field of transcriptomics, and shapes my research direction. 
+
+**Nguyen, N.X.**, Saithong, T., Thaiprasit, J., Chiewchankaset, P., Buanong, M., Boonyaritthongchai, P., Kalapanulak, S., Wongs-Aree, C., 2025. MeSA fumigation enhances the response to Colletotrichum gloeosporioides in postharvest'Nam Dok Mai'mangoes by inducing endogenous jasmonic acid biosynthesis and MiSAMT expression. Postharvest Biology and Technology 230, 113822. *https://doi.org/10.1016/j.postharvbio.2025.113822*
+
+
 # {{< colorforresearch color="darkblue" >}} 2024 {{< /colorforresearch >}}
 
 **Methyl salicylate induces endogenous jasmonic acid and salicylic acid in 'Nam Dok Mai' mango to maintain postharvest ripening and quality**
