@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Welcome,</title>
-        <link>http://localhost:1313/mysite/tags/</link>
+        <link>https://ngoc-xb-nguyen.github.io/mysite/tags/</link>
         <description>Recent content in Tags on Welcome,</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <managingEditor>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</managingEditor>
-        <webMaster>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</webMaster><atom:link href="http://localhost:1313/mysite/tags/index.xml" rel="self" type="application/rss+xml" />
+        <webMaster>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</webMaster><atom:link href="https://ngoc-xb-nguyen.github.io/mysite/tags/index.xml" rel="self" type="application/rss+xml" />
     </channel>
 </rss>
