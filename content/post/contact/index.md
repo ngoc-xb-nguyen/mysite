@@ -8,7 +8,9 @@ title: 'Contact'
 
 Ngoc X.B. Nguyen (Jean), Ph.D
 
-Leske Building, Faculty of Sciences, Engineering and Technology,
+Bioinformatician | Research Assistant
+
+G1C, Leske Building, Faculty of Sciences, Engineering and Technology,
 
 School of Animal and Veterinary Sciences, 
 
@@ -18,7 +20,7 @@ South Australia, 5371. AUSTRALIA
 
 📞 (+61) 411-544-913; (+84) 86-940-9967
 
-✉️ {{< colorforresearch color="darkblue" >}} ngoc.jeanngocnguyen@bml.kmutt.ac.th - ngoc.nguy@kmutt.ac.th - 
+✉️ {{< colorforresearch color="darkblue" >}} ngoc.jeanngocnguyen@bml.kmutt.ac.th -  
 xuanbaongoc.nguyen@adelaide.edu.au {{< /colorforresearch >}}
 
 ---

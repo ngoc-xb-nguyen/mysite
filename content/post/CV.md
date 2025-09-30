@@ -31,6 +31,12 @@ title: "CV"
 ## 👩‍💼Professional Experiences
 #
 
+
+📅 9/2025 - present
+**🔹 {{< colorforresearch color="darkblue" >}} Research Assistant (Casual staff) {{< /colorforresearch >}}**
+*Infectious Disease PC2 laboratory, University of Adelaide, South Australia*
+
+
 📅 1/2025 - 6/2025
 **🔹 {{< colorforresearch color="darkblue" >}} Research Fellow (Remote) {{< /colorforresearch >}}** 
 *Postharvest Technology of Ornamental Plant, King Mongkut’s University of Technology Thonburi (KMUTT), Thailand*  
@@ -50,7 +56,7 @@ title: "CV"
 
 ## 🎓 Education:
 
-✔ 2021 - 2024: **Ph.D in {{< colorforresearch color="darkblue" >}} Postharvest Technology {{< /colorforresearch >}}**
+✔ 2021 - 2025: **Ph.D in {{< colorforresearch color="darkblue" >}} Postharvest Technology {{< /colorforresearch >}}**
 
 School of Bioresources and Technology, KMUTT, Thailand
 
@@ -68,7 +74,8 @@ Find my list of publications in [Google Scholar](https://scholar.google.com/cita
 #
 
 ## 🔬 Research Projects:
-#
+
+. Profiling the circulating myxoma virus strains for future rabbit resistance and biocontrol potential studies
 
 . Transcriptome of the Vanda Blue Orchid
 
