@@ -9,7 +9,7 @@ title: 'About Me'
 **Ngoc X.B. Nguyen (Jean)** is a {{< colorforresearch color="darkblue" >}} Research Assistant {{< /colorforresearch >}} at the **Faculty of Sciences, Engineering and Technology, School of Animal and Veterinary Sciences, Roseworthy Campus, University of Adelaide, South Australia**. Her main responsibilities include phylogenomics, transcriptomics, Next-Generation Sequencing (NGS) data analysis, tissue culture, and molecular biology work. 
 
 #
-Before joining the University of Adelaide, she worked as a {{< colorforresearch color="darkblue" >}} Research Fellow {{< /colorforresearch >}} with **Asst. Prof. Mantana Buanong** at the**Postharvest Technology of Ornamental Plants, King Mongkut’s University of Technology Thonburi (KMUTT) in Bangkok, Thailand**, after finishing her doctoral degree. She main focus was on NGS data handling.
+Before joining the University of Adelaide, she worked as a {{< colorforresearch color="darkblue" >}} Research Fellow {{< /colorforresearch >}} with **Asst. Prof. Mantana Buanong** at the **Postharvest Technology of Ornamental Plants, King Mongkut’s University of Technology Thonburi (KMUTT) in Bangkok, Thailand**, after finishing her doctoral degree. Her main focus was on NGS data handling.
 
 
 Throughout her academic career, she have gained hands-on experience in various laboratory settings,
