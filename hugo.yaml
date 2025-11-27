@@ -174,7 +174,14 @@ menu:
       weight: 30
       params:
         icon: map-minus
-        
+    - identifier: "Event"
+      name: "Event"
+      url: "https://ngoc-xb-nguyen.github.io/mysite/post/event"
+      #url: "http://localhost:1313/post/event/"
+      weight: 30
+      params:
+        icon: date
+
 
 
 

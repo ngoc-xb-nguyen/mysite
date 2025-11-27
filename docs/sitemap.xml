@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ngoc-xb-nguyen.github.io/mysite/post/contact/</loc>
-    <lastmod>2025-02-18T10:56:11+07:00</lastmod>
+    <loc>https://ngoc-xb-nguyen.github.io/mysite/post/event/</loc>
+    <lastmod>2025-11-27T16:28:18+10:30</lastmod>
   </url><url>
     <loc>https://ngoc-xb-nguyen.github.io/mysite/post/</loc>
-    <lastmod>2025-02-18T10:56:11+07:00</lastmod>
+    <lastmod>2025-11-27T16:28:18+10:30</lastmod>
   </url><url>
     <loc>https://ngoc-xb-nguyen.github.io/mysite/</loc>
+    <lastmod>2025-11-27T16:28:18+10:30</lastmod>
+  </url><url>
+    <loc>https://ngoc-xb-nguyen.github.io/mysite/post/contact/</loc>
     <lastmod>2025-02-18T10:56:11+07:00</lastmod>
   </url><url>
     <loc>https://ngoc-xb-nguyen.github.io/mysite/post/research/</loc>
@@ -24,6 +27,8 @@
     <lastmod>2025-02-16T14:26:08+07:00</lastmod>
   </url><url>
     <loc>https://ngoc-xb-nguyen.github.io/mysite/categories/</loc>
+  </url><url>
+    <loc>https://ngoc-xb-nguyen.github.io/mysite/layouts/</loc>
   </url><url>
     <loc>https://ngoc-xb-nguyen.github.io/mysite/tags/</loc>
   </url>

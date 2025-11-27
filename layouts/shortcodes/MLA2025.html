@@ -1,0 +1,10 @@
+<div class="MLA2025-container">
+  <div class="MLA2025 image-container">
+    {{ $imageNames := slice "MLA1.JPG" "MLA2.JPG" "MLA3.JPG" "MLA4.JPG" "MLA5.JPG" }}
+    {{ range $imageNames }}
+      <div class="MLA2025-item">
+        <img src="{{ printf "MLA2025/%s" . | absURL }}" alt="MLA2025">
+      </div>
+    {{ end }}
+  </div>
+</div>
