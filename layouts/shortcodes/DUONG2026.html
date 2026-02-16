@@ -1,0 +1,10 @@
+<div class="DUONG2026-container">
+  <div class="DUONG2026 image-container">
+    {{ $imageNames := slice "DUONG1.jpg" "DUONG2.jpg" "DUONG3.jpg"  }}
+    {{ range $imageNames }}
+      <div class="DUONG2026-item">
+        <img src="{{ printf "DUONG2026/%s" . | absURL }}" alt="DUONG2026">
+      </div>
+    {{ end }}
+  </div>
+</div>

@@ -5,6 +5,19 @@ title: 'Event'
 ---
 ---
 
+# Visting scholar - Duong Vu Ngoc from Vietnam National University of Agriculture (VNUA)
+#
+Last week, our team held a warm farewell gathering for {{< colorforresearch color="blue" >}} Duong Vu Ngoc {{< /colorforresearch >}}, a PhD candidate from the **Vietnam National University of Agriculture (VNUA)**, who visited us to collaborate on the development of our **lateral flow assay**.
+During his visit, we worked together on a **colloidal gold–based detection approach for Mycoplasma**. This test strip is {{< colorforresearch color="green" >}} <strong> rapid, sensitive, and highly specific detection </strong> {{< /colorforresearch >}}, and although still in the testing phase. The current results are very promising, for both our research group and potential industry applications.
+Duong’s visit does not just move our project forward, it also bring our teams closer together. **Working side by side has enhanced our connection with the Department of Microbiology and Infectious Disease at the College of Veterinary Medicine, VNUA,** and we’re excited about what this partnership could grow into. 
+Wishing Duong all the best, and looking forward to many more joint research ahead.
+
+{{< DUONG2026 >}}
+
+#
+
+
+
 # Meat & Livestock Australia (MLA) Updates 2025
 
 #
