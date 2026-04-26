@@ -10,9 +10,22 @@ title: 'Publications'
 
 
 # Peer-reviewed Articles
+# {{< colorforresearch color="darkblue" >}} 2026 {{< /colorforresearch >}}
+**Ethylene-induced rapid anthocyanin degradation in Vanda 'Sansai Blue' orchid cut flowers: Coordinated regulation of biosynthetic genes and class III peroxidases revealed by transcriptome analysis** in Postharvest Biology and Technology (Q1, IF: 6.8)
+
+{{< pub2026 >}}
+
+In this study, we used transcriptomics to investigate the colour‑loss phenomenon observed in Vanda orchids when exposed to ethylene fumigation. Although ethylene is a well‑known plant hormone widely used in agriculture to enhance the shelf life and appearance of many horticultural commodities, Vanda orchids respond atypically—they lose colour instead of maintaining or improving visual quality. So, why?
+
+Our transcriptome analysis revealed that endogenous ethylene biosynthesis in the orchid was not elevated following exogenous ethylene treatment. Instead, the colour loss was driven by the activation of anthocyanin degradation pathways, including enhanced cellular oxidation processes, reprogramming of key transcription factors, and modulation of plant hormone signalling networks. Together, these molecular responses explain why ethylene fumigation triggers pigment breakdown rather than colour retention in Vanda orchids.
+
+
+Buanong, M., **Nguyen, N. X.**, Khunmuang, S., Wongs-Aree, C., Meir, S., & Philosoph-Hadas, S. (2026). Ethylene-induced rapid anthocyanin degradation in Vanda'Sansai Blue'orchid cut flowers: Coordinated regulation of biosynthetic genes and class III peroxidases revealed by transcriptome analysis. **Postharvest Biology and Technology**, 238, 114338. https://doi.org/10.1016/j.postharvbio.2026.114338
+
+
 # {{< colorforresearch color="darkblue" >}} 2025 {{< /colorforresearch >}}
 
-**MeSA fumigation enhances the response to *Colletotrichum gloeosporioides* in postharvest 'Nam Dok Mai' mangoes by inducing endogenous jasmonic acid biosynthesis and *MiSAMT* expression**
+**MeSA fumigation enhances the response to *Colletotrichum gloeosporioides* in postharvest 'Nam Dok Mai' mangoes by inducing endogenous jasmonic acid biosynthesis and *MiSAMT* expression** in Postharvest Biology and Technology (Q1, IF: 6.8)
 
 {{< pub2025 >}}
 
@@ -23,7 +36,7 @@ Our results show that two natural phytohormones, jasmonic acid (JA) and salicyli
 
 This is also my first paper that takes a step into the field of transcriptomics, and shapes my research direction. 
 
-**Nguyen, N.X.**, Saithong, T., Thaiprasit, J., Chiewchankaset, P., Buanong, M., Boonyaritthongchai, P., Kalapanulak, S., Wongs-Aree, C., 2025. MeSA fumigation enhances the response to Colletotrichum gloeosporioides in postharvest'Nam Dok Mai'mangoes by inducing endogenous jasmonic acid biosynthesis and MiSAMT expression. Postharvest Biology and Technology 230, 113822. *https://doi.org/10.1016/j.postharvbio.2025.113822*
+**Nguyen, N.X.**, Saithong, T., Thaiprasit, J., Chiewchankaset, P., Buanong, M., Boonyaritthongchai, P., Kalapanulak, S., Wongs-Aree, C., 2025. MeSA fumigation enhances the response to Colletotrichum gloeosporioides in postharvest'Nam Dok Mai'mangoes by inducing endogenous jasmonic acid biosynthesis and MiSAMT expression. **Postharvest Biology and Technology** 230, 113822. *https://doi.org/10.1016/j.postharvbio.2025.113822*
 
 
 # {{< colorforresearch color="darkblue" >}} 2024 {{< /colorforresearch >}}
