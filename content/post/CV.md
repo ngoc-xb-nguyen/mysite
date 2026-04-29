@@ -75,9 +75,11 @@ Find my list of publications in [Google Scholar](https://scholar.google.com/cita
 
 ## 🔬 Research Projects:
 
-. Profiling the circulating myxoma virus strains for future rabbit resistance and biocontrol potential studies
+. Lateral flow assay using colloidal gold–based detection of *Mycoplasma*. 
 
-. Transcriptome of the Vanda Blue Orchid
+. Profiling the circulating myxoma virus strains for future rabbit resistance and biocontrol potential studies (**{{< colorforresearch color="darkblue" >}} Funded by Rabbit Free Australia and CSIRO Rabbit Research 2024 {{< /colorforresearch >}}**)
+
+. Transcriptome of the Vanda Blue Orchid (**{{< colorforresearch color="darkblue" >}} Funded by the Thailand Science Research and Innovation (TSRI) Basic Research Fund, Fiscal Year 2022 {{< /colorforresearch >}}**) https://doi.org/10.1016/j.postharvbio.2026.114338
 
 . Metagenome analysis of the orange-bellied parrot
 

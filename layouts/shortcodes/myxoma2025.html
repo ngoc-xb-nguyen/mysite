@@ -1,0 +1,11 @@
+<div class="myxoma2025-container">
+  <div class="myxoma2025 image-container">
+    {{ $imageNames := slice "tree.jpg"  }}
+    {{ range $imageNames }}
+      <div class="myxoma2025-item">
+        <img src="{{ printf "myxoma2025/%s" . | absURL }}" alt="myxoma2025">
+      </div>
+    {{ end }}
+  </div>
+</div>
+

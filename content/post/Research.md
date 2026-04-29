@@ -5,14 +5,11 @@ title: 'Research Projects & Services'
 ---
 
 ---
-# Upcoming Projects
-
-
 # Ongoing Projects
 
 🔬 {{< colorforresearch color="darkblue" >}} Brassinosteroid delays leaf yellowing in ferns. {{< /colorforresearch >}} This study is conducted under the supervision of **Asst. Prof. Mantana Buanong**, Postharvest Technology of Ornamental Plants, KMUTT.
 
-🔬 {{< colorforresearch color="darkblue" >}} Lateral flow assay {{< /colorforresearch >}} using colloidal gold–based detection of Mycoplasma. 
+🔬 {{< colorforresearch color="darkblue" >}} Lateral flow assay {{< /colorforresearch >}} using colloidal gold–based detection of *Mycoplasma*. 
 
 #
 #
@@ -21,7 +18,11 @@ title: 'Research Projects & Services'
 🔬 **Transcriptome of the** {{< colorforresearch color="darkblue" >}} cut Vanda Blue Orchid {{< /colorforresearch >}}, under the supervision of **Asst. Prof. Mantana Buanong**, Postharvest Technology of Ornamental Plant, KMUTT | **{{< colorforresearch color="darkblue" >}} Funded by the Thailand Science Research and Innovation (TSRI) Basic Research Fund, Fiscal Year 2022 {{< /colorforresearch >}}**| https://doi.org/10.1016/j.postharvbio.2026.114338
 
 
-🔬 **Profiling the circulating myxoma virus strains for future rabbit resistance and biocontrol potential studies.** | **{{< colorforresearch color="darkblue" >}} Funded by Rabbit Free Australia and CSIRO Rabbit Research 2024 {{< /colorforresearch >}}**
+🔬 **Profiling the circulating myxoma virus strains for future rabbit resistance and biocontrol potential studies**, under the supervision of **Dr. Kandarp Patel**| **{{< colorforresearch color="darkblue" >}} Funded by Rabbit Free Australia and CSIRO Rabbit Research 2024 {{< /colorforresearch >}}**
+
+{{< myxoma2025 >}}
+
+We tracked the myxoma virus across Australia for more than 20 years, watching how it develops and evolves over time. 
 
 🔬 **Metagenome analysis of the orange-bellied parrot**
 
