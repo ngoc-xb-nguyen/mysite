@@ -12,16 +12,16 @@ title: 'Research Projects & Services'
 
 🔬 {{< colorforresearch color="darkblue" >}} Brassinosteroid delays leaf yellowing in ferns. {{< /colorforresearch >}} This study is conducted under the supervision of **Asst. Prof. Mantana Buanong**, Postharvest Technology of Ornamental Plants, KMUTT.
 
-🔬 **[Data analysis]** Transcriptome of the {{< colorforresearch color="darkblue" >}} cut Vanda Blue Orchid {{< /colorforresearch >}}, under the supervision of **Asst. Prof. Mantana Buanong**, Postharvest Technology of Ornamental Plant, KMUTT.
- 
-* Funded by the Thailand Science Research and Innovation (TSRI) Basic Research Fund, Fiscal Year 2022
-* This project has been submitted and is expected to be published by the end of 2025.
+🔬 {{< colorforresearch color="darkblue" >}} Lateral flow assay {{< /colorforresearch >}} using colloidal gold–based detection of Mycoplasma. 
+
 #
 #
 # Past Projects
 #
+🔬 **Transcriptome of the** {{< colorforresearch color="darkblue" >}} cut Vanda Blue Orchid {{< /colorforresearch >}}, under the supervision of **Asst. Prof. Mantana Buanong**, Postharvest Technology of Ornamental Plant, KMUTT | **{{< colorforresearch color="darkblue" >}} Funded by the Thailand Science Research and Innovation (TSRI) Basic Research Fund, Fiscal Year 2022 {{< /colorforresearch >}}**| https://doi.org/10.1016/j.postharvbio.2026.114338
 
-🔬 **Profiling the circulating myxoma virus strains for future rabbit resistance and biocontrol potential studies.**
+
+🔬 **Profiling the circulating myxoma virus strains for future rabbit resistance and biocontrol potential studies.** | **{{< colorforresearch color="darkblue" >}} Funded by Rabbit Free Australia and CSIRO Rabbit Research 2024 {{< /colorforresearch >}}**
 
 🔬 **Metagenome analysis of the orange-bellied parrot**
 

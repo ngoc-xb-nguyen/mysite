@@ -5,6 +5,17 @@ title: 'Event'
 ---
 ---
 
+# Closing This Chapter: My first time as a virology lab teaching assistant
+#
+Wrapped up my **Veterinary Virology** lab teaching assistant role, and honestly, I’m still buzzing. There’s something special about watching students ask tons of questions, and even shaking when they handle a pipette, reminding me so much of myself many years ago.
+
+We tackled everything — virus isolation, serology, outbreak investigation — and the enthusiasm in the room made every session worth it.
+
+**Huge appreciation to the students and team who made the lab feel like a mini research project**. Proud of what we achieved together. 
+
+{{< virolab2026 >}}
+
+
 # Visting scholar - Duong Vu Ngoc from Vietnam National University of Agriculture (VNUA)
 #
 Last week, our team held a warm farewell gathering for {{< colorforresearch color="blue" >}} Duong Vu Ngoc {{< /colorforresearch >}}, a PhD candidate from the **Vietnam National University of Agriculture (VNUA)**, who visited us to collaborate on the development of our **lateral flow assay**.
