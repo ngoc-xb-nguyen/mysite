@@ -2,6 +2,7 @@ languageCode: en-us
 baseURL: "https://ngoc-xb-nguyen.github.io/mysite/"
 #baseURL: "http://localhost:1313/"
 title: Welcome, 
+toc: true
 pagination:
   pagerSize: 10
 theme: "Stack"
@@ -73,8 +74,8 @@ params:
     enabled: true
   hidemeta: false
   hideSummary: false
-  showtoc: false
-  tocopen: false
+  showtoc: true
+  tocopen: true
 
   assets:
     # disableHLJS: true # to disable highlight.js

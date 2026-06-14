@@ -2,6 +2,7 @@
 date: '2025-02-18T10:56:02+07:00'
 draft: false
 title: 'Research Projects & Collaborations'
+toc: true
 ---
 
 ---
@@ -18,8 +19,8 @@ I like {{< colorforresearch color="darkblue" >}} visualizing data and making it 
 
 . Troubleshooting molecular & biochemical assays.
 
-
-# Ongoing Projects
+# Projects
+### Ongoing Projects
 
 🔬 {{< colorforresearch color="darkblue" >}} Brassinosteroid delays leaf yellowing in ferns. {{< /colorforresearch >}} This study is conducted under the supervision of **Asst. Prof. Mantana Buanong**, Postharvest Technology of Ornamental Plants, KMUTT.
 
@@ -28,7 +29,7 @@ I like {{< colorforresearch color="darkblue" >}} visualizing data and making it 
 🔬 {{< colorforresearch color="darkblue" >}}Viral integration and chimeric junction detection {{< /colorforresearch >}}.
 #
 #
-# Past Projects
+### Past Projects
 #
 🔬 **Transcriptome of the** {{< colorforresearch color="darkblue" >}} cut Vanda Blue Orchid {{< /colorforresearch >}}, under the supervision of **Asst. Prof. Mantana Buanong**, Postharvest Technology of Ornamental Plant, KMUTT | **{{< colorforresearch color="darkblue" >}} Funded by the Thailand Science Research and Innovation (TSRI) Basic Research Fund, Fiscal Year 2022 {{< /colorforresearch >}}**| https://doi.org/10.1016/j.postharvbio.2026.114338
 

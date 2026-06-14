@@ -6,9 +6,9 @@ title: 'Contact'
 {{< figure src="9973.jpeg" alt="KMUTT logo" >}}
 
 
-Ngoc X.B. Nguyen (Jean), Ph.D
+# Ngoc X.B. Nguyen (Jean), Ph.D
 
-Bioinformatician | Research & Teaching Assistant
+### Bioinformatician | Research & Teaching Assistant
 
 G1C, Leske Building, Faculty of Sciences, Engineering and Technology,
 
