@@ -33,7 +33,7 @@ title: "CV"
 
 
 📅 9/2025 - present
-**🔹 {{< colorforresearch color="darkblue" >}} Research Assistant (Casual staff) {{< /colorforresearch >}}**
+**🔹 {{< colorforresearch color="darkblue" >}} Research & Teaching Assistant (Casual staff) {{< /colorforresearch >}}**
 *Infectious Disease PC2 laboratory, University of Adelaide, South Australia*
 
 

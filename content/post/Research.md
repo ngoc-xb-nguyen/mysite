@@ -1,16 +1,31 @@
 ---
 date: '2025-02-18T10:56:02+07:00'
 draft: false
-title: 'Research Projects & Services'
+title: 'Research Projects & Collaborations'
 ---
 
 ---
+# The Values Behind My Science
+
+I like {{< colorforresearch color="darkblue" >}} visualizing data and making it more transparent and actually meaningful for real biological questions {{< /colorforresearch >}}. I enjoy connecting wet‑lab assays with computational insights and turning complex datasets into clear, meaningful results. My work {{< colorforresearch color="darkblue" >}} blends molecular-biochemical biology, and omics {{< /colorforresearch >}}, and I care about open science, good communication, and working together to solve problems.
+
+# Services I Offer
+. Bioinformatics analysis, including genome and transcriptome analysis, virus–host integration detection, and disease diagnosis.
+
+. Visualization via R.
+
+. Manuscript support (methods, results, visualization).
+
+. Troubleshooting molecular & biochemical assays.
+
+
 # Ongoing Projects
 
 🔬 {{< colorforresearch color="darkblue" >}} Brassinosteroid delays leaf yellowing in ferns. {{< /colorforresearch >}} This study is conducted under the supervision of **Asst. Prof. Mantana Buanong**, Postharvest Technology of Ornamental Plants, KMUTT.
 
-🔬 {{< colorforresearch color="darkblue" >}} Lateral flow assay {{< /colorforresearch >}} using colloidal gold–based detection of *Mycoplasma*. 
+🔬 {{< colorforresearch color="darkblue" >}}Lateral flow assay{{< /colorforresearch >}} work using colloidal gold–based detection of {{< colorforresearch color="darkblue" >}}Mycoplasma{{< /colorforresearch >}}, carried out under the guidance of **Assoc. Prof. Farhid Hemmatzadeh** at the School of Animal and Veterinary Sciences, Adelaide University.
 
+🔬 {{< colorforresearch color="darkblue" >}}Viral integration and chimeric junction detection {{< /colorforresearch >}}.
 #
 #
 # Past Projects
@@ -22,14 +37,14 @@ title: 'Research Projects & Services'
 
 {{< myxoma2025 >}}
 
-We tracked the myxoma virus across Australia for more than 20 years, watching how it develops and evolves over time. 
+We tracked the **myxoma virus** across Australia for more than 20 years, watching how it develops and evolves over time. 
 
 🔬 **Metagenome analysis of the orange-bellied parrot**
 
 {{< kraken2 >}}
 
 
-A zoologist came to us with infected birds that died from necrotizing non-suppurative hepatitis/splenitis of unknown cause. We conducted a metagenomic analysis, which *Chlamydia pstittaci* was found as causal pathogen.    
+A zoologist came to us with infected birds that died from necrotizing non-suppurative hepatitis/splenitis of unknown cause. We conducted a metagenomic analysis using **Kraken2 protocol**, which *Chlamydia pstittaci* was found as causal pathogen.    
 
 #
 

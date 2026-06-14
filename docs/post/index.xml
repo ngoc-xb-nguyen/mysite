@@ -8,7 +8,22 @@
         <language>en-us</language>
         <managingEditor>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</managingEditor>
         <webMaster>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</webMaster>
-        <lastBuildDate>Thu, 27 Nov 2025 16:28:18 +1030</lastBuildDate><atom:link href="https://ngoc-xb-nguyen.github.io/mysite/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 13 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://ngoc-xb-nguyen.github.io/mysite/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Teaching</title>
+        <link>https://ngoc-xb-nguyen.github.io/mysite/post/teaching/</link>
+        <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
+        <author>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</author>
+        <guid>https://ngoc-xb-nguyen.github.io/mysite/post/teaching/</guid>
+        <description>&lt;p&gt;I train students in molecular labs, transcriptomics and phylogenomic data analysis, support them with their research projects, and now work as a teaching assistant guiding practical classes and helping them build confidence in the lab.&lt;/p&gt;
+&lt;p&gt;My Teaching Responsibilities:&lt;/p&gt;
+&lt;p&gt;• Demonstrating laboratory techniques (biochemical tests, PCR setup, biosafety)&lt;/p&gt;
+&lt;p&gt;• Guiding students through experimental workflows&lt;/p&gt;
+&lt;p&gt;• Preparing teaching materials, flowcharts, and troubleshooting&lt;/p&gt;
+&lt;p&gt;• Supervising small groups during practical sessions&lt;/p&gt;
+&lt;p&gt;• Supporting students with data interpretation and report writing&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Event</title>
         <link>https://ngoc-xb-nguyen.github.io/mysite/post/event/</link>
         <pubDate>Thu, 27 Nov 2025 16:28:18 +1030</pubDate>
@@ -105,7 +120,7 @@ Wishing Duong all the best, and looking forward to many more joint research ahea
 &lt;/figure&gt;
 
 &lt;p&gt;Ngoc X.B. Nguyen (Jean), Ph.D&lt;/p&gt;
-&lt;p&gt;Bioinformatician | Research Assistant&lt;/p&gt;
+&lt;p&gt;Bioinformatician | Research &amp;amp; Teaching Assistant&lt;/p&gt;
 &lt;p&gt;G1C, Leske Building, Faculty of Sciences, Engineering and Technology,&lt;/p&gt;
 &lt;p&gt;School of Animal and Veterinary Sciences,&lt;/p&gt;
 &lt;p&gt;Roseworthy Campus, The University of Adelaide,&lt;/p&gt;
@@ -114,21 +129,35 @@ Wishing Duong all the best, and looking forward to many more joint research ahea
 &lt;p&gt;✉️ &lt;span style=&#34;color:darkblue&#34;&gt; ngoc.jeanngocnguyen@bml.kmutt.ac.th -  
 xuanbaongoc.nguyen@adelaide.edu.au &lt;/span&gt;
 &lt;/p&gt;
+&lt;p&gt;🔗 &lt;a class=&#34;link&#34; href=&#34;https://adelaide.edu.au/people/xuanbaongoc.nguyen&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://adelaide.edu.au/people/xuanbaongoc.nguyen&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 </description>
         </item>
         <item>
-        <title>Research Projects &amp; Services</title>
+        <title>Research Projects &amp; Collaborations</title>
         <link>https://ngoc-xb-nguyen.github.io/mysite/post/research/</link>
         <pubDate>Tue, 18 Feb 2025 10:56:02 +0700</pubDate>
         <author>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</author>
         <guid>https://ngoc-xb-nguyen.github.io/mysite/post/research/</guid>
         <description>&lt;hr&gt;
+&lt;h1 id=&#34;the-values-behind-my-science&#34;&gt;The Values Behind My Science
+&lt;/h1&gt;&lt;p&gt;I like &lt;span style=&#34;color:darkblue&#34;&gt; visualizing data and making it more transparent and actually meaningful for real biological questions &lt;/span&gt;
+. I enjoy connecting wet‑lab assays with computational insights and turning complex datasets into clear, meaningful results. My work &lt;span style=&#34;color:darkblue&#34;&gt; blends molecular-biochemical biology, and omics &lt;/span&gt;
+, and I care about open science, good communication, and working together to solve problems.&lt;/p&gt;
+&lt;h1 id=&#34;services-i-offer&#34;&gt;Services I Offer
+&lt;/h1&gt;&lt;p&gt;. Bioinformatics analysis, including genome and transcriptome analysis, virus–host integration detection, and disease diagnosis.&lt;/p&gt;
+&lt;p&gt;. Visualization via R.&lt;/p&gt;
+&lt;p&gt;. Manuscript support (methods, results, visualization).&lt;/p&gt;
+&lt;p&gt;. Troubleshooting molecular &amp;amp; biochemical assays.&lt;/p&gt;
 &lt;h1 id=&#34;ongoing-projects&#34;&gt;Ongoing Projects
 &lt;/h1&gt;&lt;p&gt;🔬 &lt;span style=&#34;color:darkblue&#34;&gt; Brassinosteroid delays leaf yellowing in ferns. &lt;/span&gt;
  This study is conducted under the supervision of &lt;strong&gt;Asst. Prof. Mantana Buanong&lt;/strong&gt;, Postharvest Technology of Ornamental Plants, KMUTT.&lt;/p&gt;
-&lt;p&gt;🔬 &lt;span style=&#34;color:darkblue&#34;&gt; Lateral flow assay &lt;/span&gt;
- using colloidal gold–based detection of &lt;em&gt;Mycoplasma&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;🔬 &lt;span style=&#34;color:darkblue&#34;&gt;Lateral flow assay&lt;/span&gt;
+ work using colloidal gold–based detection of &lt;span style=&#34;color:darkblue&#34;&gt;Mycoplasma&lt;/span&gt;
+, carried out under the guidance of &lt;strong&gt;Assoc. Prof. Farhid Hemmatzadeh&lt;/strong&gt; at the School of Animal and Veterinary Sciences, Adelaide University.&lt;/p&gt;
+&lt;p&gt;🔬 &lt;span style=&#34;color:darkblue&#34;&gt;Viral integration and chimeric junction detection &lt;/span&gt;
+.&lt;/p&gt;
 &lt;h1 id=&#34;&#34;&gt;
 &lt;/h1&gt;&lt;h1 id=&#34;&#34;&gt;
 &lt;/h1&gt;&lt;h1 id=&#34;past-projects&#34;&gt;Past Projects
@@ -151,7 +180,7 @@ xuanbaongoc.nguyen@adelaide.edu.au &lt;/span&gt;
 &lt;/div&gt;
 
 
-&lt;p&gt;We tracked the myxoma virus across Australia for more than 20 years, watching how it develops and evolves over time.&lt;/p&gt;
+&lt;p&gt;We tracked the &lt;strong&gt;myxoma virus&lt;/strong&gt; across Australia for more than 20 years, watching how it develops and evolves over time.&lt;/p&gt;
 &lt;p&gt;🔬 &lt;strong&gt;Metagenome analysis of the orange-bellied parrot&lt;/strong&gt;&lt;/p&gt;
 
 
@@ -167,7 +196,7 @@ xuanbaongoc.nguyen@adelaide.edu.au &lt;/span&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p&gt;A zoologist came to us with infected birds that died from necrotizing non-suppurative hepatitis/splenitis of unknown cause. We conducted a metagenomic analysis, which &lt;em&gt;Chlamydia pstittaci&lt;/em&gt; was found as causal pathogen.&lt;/p&gt;
+&lt;p&gt;A zoologist came to us with infected birds that died from necrotizing non-suppurative hepatitis/splenitis of unknown cause. We conducted a metagenomic analysis using &lt;strong&gt;Kraken2 protocol&lt;/strong&gt;, which &lt;em&gt;Chlamydia pstittaci&lt;/em&gt; was found as causal pathogen.&lt;/p&gt;
 &lt;h1 id=&#34;&#34;&gt;
 &lt;/h1&gt;&lt;p&gt;🔬 &lt;strong&gt;Identified the protein profile of Canine Parvovirus using various purification methods&lt;/strong&gt;&lt;/p&gt;
 
@@ -520,10 +549,10 @@ eating quality of boiled peanuts with good phytochemicals and antioxidant proper
     &lt;/div&gt;
     &lt;div class=&#34;profile-info&#34;&gt;
         &lt;p&gt;&lt;strong&gt;Ngoc X.B. Nguyen (Jean), Ph.D.&lt;/strong&gt;&lt;/p&gt;
-        &lt;p&gt;Bioinformatician | Research Assistant&lt;/p&gt;
+        &lt;p&gt;Bioinformatician | Research &amp; Teaching Assistant&lt;/p&gt;
         &lt;a href=&#34;https://ngoc-xb-nguyen.github.io/mysite/files/01_Jean 9.2025_phd.pdf&#34;&gt;Full Curriculum Vitae&lt;/a&gt;
         &lt;p&gt;✉️ ngoc.jeanngocnguyen@bml.kmutt.ac.th - xuanbaongoc.nguyen@adelaide.edu.au&lt;/p&gt;
-        &lt;p&gt;📞 (+61) 411-544-913; (+84) 86-940-9967&lt;/p&gt;
+        &lt;p&gt;📞 (+61) 411-544-913&lt;/p&gt;
     &lt;/div&gt;
 &lt;/div&gt;
 
@@ -563,7 +592,7 @@ eating quality of boiled peanuts with good phytochemicals and antioxidant proper
 &lt;h2 id=&#34;professional-experiences&#34;&gt;👩‍💼Professional Experiences
 &lt;/h2&gt;&lt;h1 id=&#34;&#34;&gt;
 &lt;/h1&gt;&lt;p&gt;📅 9/2025 - present
-&lt;strong&gt;🔹 &lt;span style=&#34;color:darkblue&#34;&gt; Research Assistant (Casual staff) &lt;/span&gt;
+&lt;strong&gt;🔹 &lt;span style=&#34;color:darkblue&#34;&gt; Research &amp; Teaching Assistant (Casual staff) &lt;/span&gt;
 &lt;/strong&gt;
 &lt;em&gt;Infectious Disease PC2 laboratory, University of Adelaide, South Australia&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;📅 1/2025 - 6/2025
@@ -641,11 +670,11 @@ by Advanced Programme Scholarship, Nong Lam University, Vietnam) &lt;/span&gt;
         <author>xuanbaongoc.nguyen@adelaide.edu.au - ngoc.jeanngocnguyen@bml.kmutt.ac.th (Ngoc Nguyen)</author>
         <guid>https://ngoc-xb-nguyen.github.io/mysite/post/about-me/</guid>
         <description>&lt;h1 id=&#34;&#34;&gt;
-&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Ngoc X.B. Nguyen (Jean)&lt;/strong&gt; is a &lt;span style=&#34;color:darkblue&#34;&gt; Research Assistant &lt;/span&gt;
- at the &lt;strong&gt;Faculty of Sciences, Engineering and Technology, School of Animal and Veterinary Sciences, Roseworthy Campus, University of Adelaide, South Australia&lt;/strong&gt;. Her main responsibilities include phylogenomics, transcriptomics, Next-Generation Sequencing (NGS) data analysis, tissue culture, and molecular biology work.&lt;/p&gt;
+&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;Ngoc X.B. Nguyen (Jean)&lt;/strong&gt; is a &lt;span style=&#34;color:darkblue&#34;&gt; Research &amp; Teaching Assistant &lt;/span&gt;
+ at the &lt;strong&gt;Faculty of Sciences, Engineering and Technology, School of Animal and Veterinary Sciences, Roseworthy Campus, Adelaide University, South Australia&lt;/strong&gt;. Her work spans data analysis, including  transcriptomics, Next‑Generation Sequencing (NGS) data analysis, tissue culture, and molecular-biochemical biology, with a strong focus on pathogens and immunity.&lt;/p&gt;
 &lt;h1 id=&#34;&#34;&gt;
-&lt;/h1&gt;&lt;p&gt;Before joining the University of Adelaide, she worked as a &lt;span style=&#34;color:darkblue&#34;&gt; Research Fellow &lt;/span&gt;
- with &lt;strong&gt;Asst. Prof. Mantana Buanong&lt;/strong&gt; at the &lt;strong&gt;Postharvest Technology of Ornamental Plants, King Mongkut’s University of Technology Thonburi (KMUTT) in Bangkok, Thailand&lt;/strong&gt;, after finishing her doctoral degree. Her main focus was on NGS data handling.&lt;/p&gt;
+&lt;/h1&gt;&lt;p&gt;Before joining the University of Adelaide, Jean worked as a &lt;span style=&#34;color:darkblue&#34;&gt; Research Fellow &lt;/span&gt;
+ with &lt;strong&gt;Asst. Prof. Mantana Buanong&lt;/strong&gt; at the &lt;strong&gt;Postharvest Technology of Ornamental Plants, King Mongkut’s University of Technology Thonburi (KMUTT) in Bangkok, Thailand&lt;/strong&gt;.  After finishing her doctoral degree, her focused on NGS data handling.&lt;/p&gt;
 &lt;p&gt;Throughout her academic career, she have gained hands-on experience in various laboratory settings,
 including:&lt;/p&gt;
 &lt;h1 id=&#34;&#34;&gt;
@@ -658,10 +687,11 @@ including:&lt;/p&gt;
 &lt;/h1&gt;&lt;p&gt;• The Postharvest Molecular Biochemistry Lab and Postharvest Technology of Ornamental Plants at &lt;strong&gt;KMUTT&lt;/strong&gt; &lt;span style=&#34;color:darkblue&#34;&gt; (Thailand) &lt;/span&gt;
 &lt;/p&gt;
 &lt;h1 id=&#34;&#34;&gt;
-&lt;/h1&gt;&lt;p&gt;• The PC2 Infectious Disease and Tissue Culture Lab at the &lt;strong&gt;University of Adelaide&lt;/strong&gt; &lt;span style=&#34;color:darkblue&#34;&gt; South Australia &lt;/span&gt;
+&lt;/h1&gt;&lt;p&gt;• The PC2 Infectious Disease and Tissue Culture Lab at the &lt;strong&gt;Adelaide University&lt;/strong&gt; &lt;span style=&#34;color:darkblue&#34;&gt; South Australia &lt;/span&gt;
 &lt;/p&gt;
+&lt;p&gt;Seems like she has travelled widely for her study and academic career, from Vietnam, Malaysia, Thailand and now Australia. &lt;strong&gt;These experiences shaped her scientific identity and deepened her appreciation for how research is done across cultures&lt;/strong&gt;. Among all the places she has worked, she finds Australia especially inspiring for its high standards in science, strong research culture, and supportive academic environment.&lt;/p&gt;
 &lt;h1 id=&#34;&#34;&gt;
-&lt;/h1&gt;&lt;p&gt;As of 2025, Ngoc holds a &lt;strong&gt;Ph.D. in Postharvest Technology&lt;/strong&gt; and an &lt;strong&gt;M.Sc. in Postharvest Technology (AgriScience Technology)&lt;/strong&gt; from KMUTT, and a &lt;strong&gt;B.Eng. in Food Science and Technology&lt;/strong&gt; from Nong Lam University, Ho Chi Minh City, Vietnam. During her studies, she was eager to engage in academic research, continuously update her knowledge, and contribute through volunteer work. She was awarded the Vietnam National Student with Five Good Merits in 2020, gaining recognition as a young and passionate scientist.&lt;/p&gt;
+&lt;/h1&gt;&lt;p&gt;As of 2025, Jean holds a &lt;strong&gt;Ph.D. in Postharvest Technology&lt;/strong&gt; and an &lt;strong&gt;M.Sc. in Postharvest Technology (AgriScience Technology)&lt;/strong&gt; from KMUTT, and a &lt;strong&gt;B.Eng. in Food Science and Technology&lt;/strong&gt; from Nong Lam University, Ho Chi Minh City, Vietnam. During her studies, she was eager to engage in academic research, continuously update her knowledge, and contribute through volunteer work. She was awarded the Vietnam National Student with Five Good Merits in 2020, gaining recognition as a young and passionate scientist.&lt;/p&gt;
 &lt;h1 id=&#34;&#34;&gt;
 &lt;/h1&gt;&lt;p&gt;Her research interests lie at the intersection of &lt;strong&gt;bioinformatics, molecular biology, and plant biotechnology&lt;/strong&gt;. She specializes in &lt;strong&gt;NGS technologies&lt;/strong&gt;, leveraging &lt;strong&gt;transcriptomic and genomic&lt;/strong&gt; data to better understand &lt;strong&gt;molecular mechanisms&lt;/strong&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;research-disciplines&#34;&gt;Research Disciplines:

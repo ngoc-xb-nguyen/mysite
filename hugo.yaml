@@ -29,7 +29,7 @@ params:
 
     compact: false
     emoji: 👋
-    subtitle: "This is the website of Ngoc X. B. Nguyen (Jean), Ph.D."
+    subtitle: "This is the website of Ngoc X. B. Nguyen (Jean), Ph.D. | Bioinformatics researcher specializing in transcriptomics and molecular diagnostics."
     orcid:
       url: "https://orcid.org/0000-0002-6802-5509"
 
@@ -160,10 +160,10 @@ menu:
       weight: 30
       params:
         icon: file-analytics
-    - identifier: "Research & Service"
-      name: "Research & Service"
-      url: "https://ngoc-xb-nguyen.github.io/mysite/post/research"
-      #url: "http://localhost:1313/post/Research/"
+    - identifier: "Research & Collaborations"
+      name: "Research & Collaborations"
+      #url: "https://ngoc-xb-nguyen.github.io/mysite/post/research"
+      url: "http://localhost:1313/post/Research/"
       weight: 30
       params:
         icon: flask
@@ -181,6 +181,13 @@ menu:
       weight: 30
       params:
         icon: date
+    - identifier: "Teaching"
+      name: "Teaching"
+      url: "https://ngoc-xb-nguyen.github.io/mysite/post/teaching"
+      #url: "http://localhost:1313/post/teaching/"
+      weight: 30
+      params:
+        icon: teacher    
 
 
 
